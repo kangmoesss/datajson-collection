@@ -16,34 +16,34 @@
                 {
                     "@type": "dcat:Distribution",
                     "format": "html",
-                    "accessURL": "https://opendata.jabarprov.go.id/id/dataset/jumlah-kepala-sekolah-dan-guru-sekolah-menengah-kejuruan-smk-berdasarkan-jenis-kelamin-dan-ijazah-tertinggi-di-jawa-barat",
-                    "description": "Dataset ini berisi data jumlah kepala sekolah dan guru sekolah menengah kejuruan (smk) berdasarkan status kepegawaian di Provinsi Jawa Barat periode tahun 2019.\n\nDataset terkait topik Pendidikan ini dihasilkan oleh Dinas Pendidikan yang dikeluarkan dalam periode 1 tahun sekali.\n\nPenjelasan mengenai variabel di dalam dataset ini:\n*   kode_provinsi: menyatakan kode Provinsi Jawa Barat sesuai ketentuan BPS merujuk pada aturan Peraturan Badan Pusat Statistik Nomor 3 Tahun 2019 dengan tipe data numerik.\n*   nama_provinsi: menyatakan lingkup data berasal dari wilayah Provinsi Jawa Barat sesuai ketentuan BPS merujuk pada aturan Peraturan Badan Pusat Statistik Nomor 3 Tahun 2019 dengan tipe data teks.\n*   kode_kabupaten_kota: menyatakan kode dari setiap kabupaten dan kota di Provinsi Jawa Barat sesuai ketentuan BPS merujuk pada aturan Peraturan Badan Pusat Statistik Nomor 3 Tahun 2019 dengan tipe data numerik.\n*   nama_kabupaten_kota: menyatakan lingkup data berasal dari setiap kabupaten dan kota di Provinsi Jawa Barat sesuai penamaan BPS  merujuk pada aturan Peraturan Badan Pusat Statistik Nomor 3 Tahun 2019 dengan tipe data teks.\n*   status_kepegawaian: menyatakan status kepegawaian dari kepala sekolah dan guru sekolah menengah atas dengan tipe data teks.\n     *   tetap: menyatakan kepala sekolah dan guru sekolah menengah atas merupakan pegawai tetap.\n     *   tidak tetap: menyatakan kepala sekolah dan guru sekolah menengah atas merupakan pegawai tidak tetap.\n*    kategori_pegawai: menyatakan kategori pegawai kepala sekolah dan guru sekolah menengah atas dengan tipe data teks.\n     *   pns: menyatakan kepala sekolah dan guru sekolah menengah atas merupakan pegawai tetap dengan kategori pns.\n     *   yayasan:  menyatakan kepala sekolah dan guru sekolah menengah atas merupakan pegawai tetap dengan kategori yayasan.\n     *   guru bantu:  menyatakan kepala sekolah dan guru sekolah menengah atas merupakan pegawai tidak tetap dengan kategori guru bantu.\n     *   guru honda: menyatakan kepala sekolah dan guru sekolah menengah atas merupakan pegawai tidak tetap dengan kategori guru honorer daerah.\n     *   gtt: menyatakan kepala sekolah dan guru sekolah menengah atas merupakan pegawai tidak tetap dengan kategori guru tidak tetap.\n*   satuan: menyatakan satuan dari pengukuran jumlah kepala sekolah dan guru sekolah menengah atas dalam orang dengan tipe data teks.\n*   tahun: menyatakan tahun produksi data dengan tipe data numerik.",
-                    "title": "Jumlah Kepala Sekolah dan Guru Sekolah Menengah Kejuruan (SMK) Berdasarkan Status Kepegawaian di Jawa Barat"
+                    "accessURL": "https://opendata.jabarprov.go.id/id/dataset/jumlah-guru-sekolah-menengah-kejuruan-smk-berdasarkan-kelompok-umur-di-jawa-barat",
+                    "description": "Dataset ini berisi data jumlah guru sekolah menengah kejuruan (smk) berdasarkan kelompok umur di Provinsi Jawa Barat periode tahun 2020.\n\nDataset terkait topik Pendidikan ini dihasilkan oleh Dinas Pendidikan yang dikeluarkan dalam periode 1 tahun sekali.\n\nPenjelasan mengenai variabel di dalam dataset ini:\n*   kode_provinsi: menyatakan kode Provinsi Jawa Barat sesuai ketentuan BPS merujuk pada aturan Peraturan Badan Pusat Statistik Nomor 3 Tahun 2019 dengan tipe data numerik.\n*   nama_provinsi: menyatakan lingkup data berasal dari wilayah Provinsi Jawa Barat sesuai ketentuan BPS merujuk pada aturan Peraturan Badan Pusat Statistik Nomor 3 Tahun 2019 dengan tipe data teks.\n*   kode_kabupaten_kota: menyatakan kode dari setiap kabupaten dan kota di Provinsi Jawa Barat sesuai ketentuan BPS merujuk pada aturan Peraturan Badan Pusat Statistik Nomor 3 Tahun 2019 dengan tipe data numerik.\n*   nama_kabupaten_kota: menyatakan lingkup data berasal dari setiap kabupaten dan kota di Provinsi Jawa Barat sesuai penamaan BPS  merujuk pada aturan Peraturan Badan Pusat Statistik Nomor 3 Tahun 2019 dengan tipe data teks.\n*   kelompok_umur: menyatakan kelompok umur dari guru sekolah menengah kejuruan dengan tipe data teks.\n     *   <30: menyatakan guru sekolah menengah kejuruan dengan umur kurang dari 30 tahun.\n     *   31-35: menyatakan guru sekolah menengah kejuruan dengan umur 31-35 tahun.\n     *   36-40: menyatakan guru sekolah menengah kejuruan dengan umur 36-40 tahun.\n     *   41-45: menyatakan guru sekolah menengah kejuruan dengan umur 41-45 tahun.\n     *   46-50: menyatakan guru sekolah menengah kejuruan dengan umur 46-50 tahun.\n     *   51-55: menyatakan guru sekolah menengah kejuruan dengan umur 51-55 tahun.\n     *   >56: menyatakan guru sekolah menengah kejuruan dengan umur lebih dari 56 tahun.\n*   jumlah_guru: menyatakan jumlah guru sekolah menengah kejuruan dengan tipe data numerik.\n*   satuan: menyatakan satuan dari pengukuran jumlah guru sekolah menengah kejuruan dalam orang dengan tipe data teks.\n*   tahun: menyatakan tahun produksi data dengan tipe data numerik.",
+                    "title": "Jumlah Kepala Sekolah dan Guru Sekolah Menengah Kejuruan (SMK) Berdasarkan Kelompok Umur di Jawa Barat"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "downloadURL": "https://data.go.id/static-asset/csv/disdik-od_15482_jml_kepala_sekolah_guru_sekolah_menengah_kejuruan_smk__data.csv",
+                    "downloadURL": "https://data.jabarprov.go.id/api-backend/bigdata/disdik/od_17289_jml_guru_sekolah_menengah_kejuruan_smk__kelompok_umur?download=csv",
                     "mediaType": "text/csv",
                     "format": "csv",
-                    "title": "Jumlah Kepala Sekolah dan Guru Sekolah Menengah Kejuruan (SMK) Berdasarkan Status Kepegawaian di Jawa Barat"
+                    "title": "Jumlah Kepala Sekolah dan Guru Sekolah Menengah Kejuruan (SMK) Berdasarkan Kelompok Umur di Jawa Barat"
                 }
             ],
             "identifier": "6e2f9f14-392a-4d2c-aef4-ef2c55c64c70",
             "issued": "2021-05-31",
-            "landingPage": "https://opendata.jabarprov.go.id/id/dataset/jumlah-kepala-sekolah-dan-guru-sekolah-menengah-kejuruan-smk-berdasarkan-jenis-kelamin-dan-ijazah-tertinggi-di-jawa-barat",
+            "landingPage": "https://opendata.jabarprov.go.id/id/dataset/jumlah-guru-sekolah-menengah-kejuruan-smk-berdasarkan-kelompok-umur-di-jawa-barat",
             "modified": "2021-06-01",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Dinas Pendidikan"
             },
-            "title": "Jumlah Kepala Sekolah dan Guru Sekolah Menengah Kejuruan (SMK) Berdasarkan Status Kepegawaian di Jawa Barat",
-            "description": "Dataset ini berisi data jumlah kepala sekolah dan guru sekolah menengah kejuruan (smk) berdasarkan kelompok umur di Provinsi Jawa Barat periode tahun 2019.\n\nDataset terkait topik Pendidikan ini dihasilkan oleh Dinas Pendidikan yang dikeluarkan dalam periode 1 tahun sekali.\n\nPenjelasan mengenai variabel di dalam dataset ini:\n*   kode_provinsi: menyatakan kode Provinsi Jawa Barat sesuai ketentuan BPS merujuk pada aturan Peraturan Badan Pusat Statistik Nomor 3 Tahun 2019 dengan tipe data numerik.\n*   nama_provinsi: menyatakan lingkup data berasal dari wilayah Provinsi Jawa Barat sesuai ketentuan BPS merujuk pada aturan Peraturan Badan Pusat Statistik Nomor 3 Tahun 2019 dengan tipe data teks.\n*   kode_kabupaten_kota: menyatakan kode dari setiap kabupaten dan kota di Provinsi Jawa Barat sesuai ketentuan BPS merujuk pada aturan Peraturan Badan Pusat Statistik Nomor 3 Tahun 2019 dengan tipe data numerik.\n*   nama_kabupaten_kota: menyatakan lingkup data berasal dari setiap kabupaten dan kota di Provinsi Jawa Barat sesuai penamaan BPS  merujuk pada aturan Peraturan Badan Pusat Statistik Nomor 3 Tahun 2019 dengan tipe data teks.\n*   kelompok_umur: menyatakan kelompok umur dari kepala sekolah dan guru sekolah menengah atas dengan tipe data teks.\n     *   <19: menyatakan kepala sekolah dan guru sekolah menengah atas dengan umur kurang dari 19 tahun.\n     *   20-29: menyatakan kepala sekolah dan guru sekolah menengah atas dengan umur 20-29 tahun.\n     *   30-39: menyatakan kepala sekolah dan guru sekolah menengah atas dengan umur 30-39 tahun.\n     *   40-49: menyatakan kepala sekolah dan guru sekolah menengah atas dengan umur 40-49 tahun.\n     *   50-59: menyatakan kepala sekolah dan guru sekolah menengah atas dengan umur 50-59 tahun.\n     *   >60: menyatakan kepala sekolah dan guru sekolah menengah atas dengan umur lebih dari 60 tahun.\n*   jumlah_kepsek_guru: menyatakan jumlah kepala sekolah dan guru sekolah menengah atas dengan tipe data numerik.\n*   satuan: menyatakan satuan dari pengukuran jumlah kepala sekolah dan guru sekolah menengah atas dalam orang dengan tipe data teks.\n*   tahun: menyatakan tahun produksi data dengan tipe data numerik.",
+            "title": "Jumlah Kepala Sekolah dan Guru Sekolah Menengah Kejuruan (SMK) Berdasarkan Kelompok Umur di Jawa Barat",
+            "description": "Dataset ini berisi data jumlah guru sekolah menengah kejuruan (smk) berdasarkan kelompok umur di Provinsi Jawa Barat periode tahun 2020.\n\nDataset terkait topik Pendidikan ini dihasilkan oleh Dinas Pendidikan yang dikeluarkan dalam periode 1 tahun sekali.\n\nPenjelasan mengenai variabel di dalam dataset ini:\n*   kode_provinsi: menyatakan kode Provinsi Jawa Barat sesuai ketentuan BPS merujuk pada aturan Peraturan Badan Pusat Statistik Nomor 3 Tahun 2019 dengan tipe data numerik.\n*   nama_provinsi: menyatakan lingkup data berasal dari wilayah Provinsi Jawa Barat sesuai ketentuan BPS merujuk pada aturan Peraturan Badan Pusat Statistik Nomor 3 Tahun 2019 dengan tipe data teks.\n*   kode_kabupaten_kota: menyatakan kode dari setiap kabupaten dan kota di Provinsi Jawa Barat sesuai ketentuan BPS merujuk pada aturan Peraturan Badan Pusat Statistik Nomor 3 Tahun 2019 dengan tipe data numerik.\n*   nama_kabupaten_kota: menyatakan lingkup data berasal dari setiap kabupaten dan kota di Provinsi Jawa Barat sesuai penamaan BPS  merujuk pada aturan Peraturan Badan Pusat Statistik Nomor 3 Tahun 2019 dengan tipe data teks.\n*   kelompok_umur: menyatakan kelompok umur dari guru sekolah menengah kejuruan dengan tipe data teks.\n     *   <30: menyatakan guru sekolah menengah kejuruan dengan umur kurang dari 30 tahun.\n     *   31-35: menyatakan guru sekolah menengah kejuruan dengan umur 31-35 tahun.\n     *   36-40: menyatakan guru sekolah menengah kejuruan dengan umur 36-40 tahun.\n     *   41-45: menyatakan guru sekolah menengah kejuruan dengan umur 41-45 tahun.\n     *   46-50: menyatakan guru sekolah menengah kejuruan dengan umur 46-50 tahun.\n     *   51-55: menyatakan guru sekolah menengah kejuruan dengan umur 51-55 tahun.\n     *   >56: menyatakan guru sekolah menengah kejuruan dengan umur lebih dari 56 tahun.\n*   jumlah_guru: menyatakan jumlah guru sekolah menengah kejuruan dengan tipe data numerik.\n*   satuan: menyatakan satuan dari pengukuran jumlah guru sekolah menengah kejuruan dalam orang dengan tipe data teks.\n*   tahun: menyatakan tahun produksi data dengan tipe data numerik.",
             "keyword": [
                 "pendidikan",
+                "jumlah guru",
                 "data agregat",
-                "status kepegawaian",
-                "sekolah menengah kejuruan",
-                "jumlah kepsek dan guru"
+                "kelompok umur",
+                "sekolah menengah kejuruan"
             ]
         },
         {
@@ -64,7 +64,7 @@
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "downloadURL": "https://data.go.id/static-asset/csv/dpmdes-od_17269_daftar_desa_berdasarkan_provider_telepon_seluler_data.csv",
+                    "downloadURL": "https://data.jabarprov.go.id/api-backend/bigdata/dpmdes/od_17269_daftar_desa_berdasarkan_provider_telepon_seluler?download=csv",
                     "mediaType": "text/csv",
                     "format": "csv",
                     "title": "Daftar Desa Berdasarkan Provider Telepon Seluler di Jawa Barat"
@@ -107,7 +107,7 @@
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "downloadURL": "https://data.go.id/static-asset/csv/distanhor-od_17261_produksi_kacang_tanah_berdasarkan_kabupatenkota_data.csv",
+                    "downloadURL": "https://data.jabarprov.go.id/api-backend/bigdata/distanhor/od_17261_produksi_kacang_tanah_berdasarkan_kabupatenkota?download=csv",
                     "mediaType": "text/csv",
                     "format": "csv",
                     "title": "Produksi Kacang Tanah Berdasarkan Kabupaten/Kota di Jawa Barat"
@@ -150,7 +150,7 @@
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "downloadURL": "https://data.go.id/static-asset/csv/disdik-od_17290_jml_guru_sekolah_menengah_pertama_smp__jk_data.csv",
+                    "downloadURL": "https://data.jabarprov.go.id/api-backend/bigdata/disdik/od_17290_jml_guru_sekolah_menengah_pertama_smp__jk?download=csv",
                     "mediaType": "text/csv",
                     "format": "csv",
                     "title": "Jumlah Guru Sekolah Menengah Pertama (SMP) Berdasarkan Jenis Kelamin di Jawa Barat"
