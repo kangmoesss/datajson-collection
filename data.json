@@ -10,7 +10,7 @@
             "accessLevel": "public",
             "contactPoint": {
                 "fn": "Dinas Pendidikan",
-                "hasEmail": "mailto:noemailprovided@usa.gov"
+                "hasEmail": "mailto:disdik@jabarprov.go.id"
             },
             "distribution": [
                 {
@@ -29,9 +29,9 @@
                 }
             ],
             "identifier": "6e2f9f14-392a-4d2c-aef4-ef2c55c64c70",
-            "issued": "2021-05-31",
+            "issued": "2021-08-22",
             "landingPage": "https://opendata.jabarprov.go.id/id/dataset/jumlah-guru-sekolah-menengah-kejuruan-smk-berdasarkan-kelompok-umur-di-jawa-barat",
-            "modified": "2021-06-01",
+            "modified": "2021-08-22",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Dinas Pendidikan"
@@ -51,7 +51,7 @@
             "accessLevel": "public",
             "contactPoint": {
                 "fn": "Dinas Pemberdayaan Masyarakat Dan Desa",
-                "hasEmail": "mailto:noemailprovided@usa.gov"
+                "hasEmail": "mailto:dpmdesa@jabarprov.go.id"
             },
             "description": "Dataset ini berisi data daftar desa berdasarkan provider telepon seluler di Provinsi Jawa Barat periode tahun 2021.\n\nDataset terkait topik Pemerintah dan Desa ini dihasilkan oleh Dinas Pemberdayaan Masyarakat dan Desa yang dikeluarkan dalam periode 1 tahun sekali.\n\nPenjelasan mengenai variabel di dalam dataset ini:\n*   kode_provinsi: menyatakan kode Provinsi Jawa Barat sesuai ketentuan BPS merujuk pada aturan Peraturan Badan Pusat Statistik Nomor 3 Tahun 2019 dengan tipe data numerik.\n*   nama_provinsi: menyatakan lingkup data berasal dari wilayah Provinsi Jawa Barat sesuai ketentuan BPS merujuk pada aturan Peraturan Badan Pusat Statistik Nomor 3 Tahun 2019 dengan tipe data teks.\n*   kode_kabupaten_kota: menyatakan kode dari setiap kabupaten dan kota di Provinsi Jawa Barat sesuai ketentuan BPS merujuk pada aturan Peraturan Badan Pusat Statistik Nomor 3 Tahun 2019 dengan tipe data numerik.\n*   nama_kabupaten_kota: menyatakan lingkup data berasal dari setiap kabupaten dan kota di Provinsi Jawa Barat sesuai penamaan BPS  merujuk pada aturan Peraturan Badan Pusat Statistik Nomor 3 Tahun 2019 dengan tipe data teks.\n*   bps_kode_kecamatan: menyatakan kode dari setiap kecamatan di Provinsi Jawa Barat sesuai ketentuan BPS merujuk pada aturan Peraturan Badan Pusat Statistik Nomor 3 Tahun 2019 dengan tipe data numerik.\n*   bps_nama_kecamatan: menyatakan lingkup data berasal dari setiap kecamatan di Provinsi Jawa Barat sesuai penamaan BPS  merujuk pada aturan Peraturan Badan Pusat Statistik Nomor 3 Tahun 2019 dengan tipe data teks.\n*   bps_kode_desa_kelurahan: menyatakan kode dari setiap desa dan kelurahan di Provinsi Jawa Barat sesuai ketentuan BPS merujuk pada aturan Peraturan Badan Pusat Statistik Nomor 3 Tahun 2019 dengan tipe data numerik.\n*   bps_nama_desa_kelurahan: menyatakan lingkup data berasal dari setiap desa dan kelurahan di Provinsi Jawa Barat sesuai penamaan BPS  merujuk pada aturan Peraturan Badan Pusat Statistik Nomor 3 Tahun 2019 dengan tipe data teks.\n*   kemendagri_kode_kecamatan: menyatakan kode dari setiap kecamatan di Provinsi Jawa Barat sesuai ketentuan Kementerian Dalam Negeri merujuk pada aturan Peraturan Menteri Dalam Negeri No. 137 tahun 2017 dengan tipe data numerik.\n*   kemendagri_nama_kecamatan: menyatakan lingkup data berasal dari setiap kecamatan di Provinsi Jawa Barat sesuai penamaan Kementerian Dalam Negeri merujuk pada aturan Peraturan Menteri Dalam Negeri No. 137 tahun 2017 dengan tipe data teks.\n*   kemendagri_kode_desa_kelurahan: menyatakan kode dari setiap desa dan kelurahan di Provinsi Jawa Barat sesuai ketentuan Kementerian Dalam Negeri merujuk pada aturan Peraturan Menteri Dalam Negeri No. 137 tahun 2017 dengan tipe data numerik.\n*   kemendagri_nama_desa_kelurahan: menyatakan lingkup data berasal dari setiap desa dan kelurahan di Provinsi Jawa Barat sesuai penamaan Kementerian Dalam Negeri merujuk pada aturan Peraturan Menteri Dalam Negeri No. 137 tahun 2017 dengan tipe data teks.\n*   status_sinyal: menyatakan kategori status sinyal dengan tipe data teks.\n    *   sinyal kuat: menyatakan status sinyal kuat.\n    *   sinyal lemah: menyatakan status sinyal kuat.\n    *   tidak ada sinyal: menyatakan status sinyal kuat.\n*   keberadaan_internet: menyatakan status keberadaan internet  dengan tipe data teks.\n     *   ada: menyatakan adanya keberadaan internet di desa.\n     *   tidak ada: menyatakan tidak adanya keberadaan internet di desa.\n*   kepemilikan_internet: menyatakan status kepemilikan internet  dengan tipe data teks.\n     *   ada: menyatakan adanya kepemilikan internet di desa.\n     *   tidak ada: menyatakan tidak adanya kepemilikan internet di desa.\n*   ketersediaan_tower_bts: menyatakan status ketersediaan tower bts  dengan tipe data teks.\n     *   ada: menyatakan adanya ketersediaan tower bts di desa.\n     *   tidak ada: menyatakan tidak adanya ketersediaan tower bts di desa.\n*   jarak_tower_terdekat: menyatakan jarak tower terdekat dalam kilometer dengan tipe data numerik.\n*   keberadaan_telkomsel: menyatakan status keberadaan sinyal telkomsel di desa dengan tipe data teks.\n     *   ada: menyatakan adanya sinyal telkomsel di desa\n     *   tidak ada: menyatakan tidak adanya sinyal telkomsel di desa.\n*   keberadaan_indosat: menyatakan status keberadaan sinyal indosat di desa dengan tipe data teks.\n     *   ada: menyatakan adanya sinyal indosat di desa\n     *   tidak ada: menyatakan tidak adanya sinyal indosat di desa.\n*   keberadaan_xl_axiata: menyatakan status keberadaan sinyal xl axiata di desa dengan tipe data teks.\n     *   ada: menyatakan adanya sinyal xl axiata di desa\n     *   tidak ada: menyatakan tidak adanya sinyal xl axiata di desa.\n*   keberadaan_operator_lain: menyatakan status keberadaan sinyal operator lainnya di desa dengan tipe data teks.\n     *   ada: menyatakan adanya sinyal sinyal operator lainnya di desa\n     *   tidak ada: menyatakan tidak adanya sinyal sinyal operator lainnya di desa.\n*   operator_lainnya: menyatakan status keberadaan sinyal operator lainnya di desa diantaranya axis, three, smartfren, by.u, indihome, lainnya dengan tipe data teks.\n*   tahun: menyatakan tahun produksi data dengan tipe data numerik.",
             "distribution": [
@@ -71,7 +71,7 @@
                 }
             ],
             "identifier": "e4d4042c-c0f6-4d4e-9bf7-d08e5b392ceb",
-            "issued": "2021-05-29",
+            "issued": "2021-08-20",
             "keyword": [
                 "daftar desa", 
                 "data referensi",
@@ -79,7 +79,7 @@
                 "provider telepon seluler"
             ],
             "landingPage": "https://opendata.jabarprov.go.id/id/dataset/daftar-desa-berdasarkan-provider-telepon-seluler-di-jawa-barat",
-            "modified": "2021-06-26",
+            "modified": "2021-08-20",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Dinas Pemberdayaan Masyarakat Dan Desa"
@@ -94,7 +94,7 @@
             "accessLevel": "public",
             "contactPoint": {
                 "fn": "Dinas Tanaman Pangan Dan Hortikultura",
-                "hasEmail": "mailto:noemailprovided@usa.gov"
+                "hasEmail": "mailto:distan@jabarprov.go.id"
             },
             "description": "Dataset ini berisi data produksi kacang tanah berdasarkan kabupaten/kota di Provinsi Jawa Barat dari tahun 2015 s.d. 2019.\n\nDataset terkait topik Ekonomi ini dihasilkan oleh Dinas Tanaman Pangan dan Hortikultura yang dikeluarkan dalam periode 1 tahun sekali.\n\nPenjelasan mengenai variabel di dalam dataset ini:\n*   kode_provinsi: menyatakan kode Provinsi Jawa Barat sesuai ketentuan BPS merujuk pada aturan Peraturan Badan Pusat Statistik Nomor 3 Tahun 2019 dengan tipe data numerik.\n*   nama_provinsi: menyatakan lingkup data berasal dari wilayah Provinsi Jawa Barat sesuai ketentuan BPS merujuk pada aturan Peraturan Badan Pusat Statistik Nomor 3 Tahun 2019 dengan tipe data teks.\n*   kode_kabupaten_kota: menyatakan kode dari setiap kabupaten dan kota di Provinsi Jawa Barat sesuai ketentuan BPS merujuk pada aturan Peraturan Badan Pusat Statistik Nomor 3 Tahun 2019 dengan tipe data numerik.\n*   nama_kabupaten_kota: menyatakan lingkup data berasal dari setiap kabupaten dan kota di Provinsi Jawa Barat sesuai penamaan BPS  merujuk pada aturan Peraturan Badan Pusat Statistik Nomor 3 Tahun 2019 dengan tipe data teks.\n*   produksi_kacang_tanah: menyatakan jumlah produksi kacang tanah dengan tipe data numerik.\n*   satuan: menyatakan satuan dari pengukuran jumlah produksi kacang tanah dalam ton dengan tipe data teks.\n*   tahun: menyatakan tahun produksi data dengan tipe data numerik.",
             "distribution": [
@@ -114,9 +114,9 @@
                 }
             ],
             "identifier": "927200e8-5673-46ce-8d31-6b52c9d20554",
-            "issued": "2021-05-29",
+            "issued": "2021-08-19",
             "landingPage": "https://opendata.jabarprov.go.id/id/dataset/produksi-kacang-tanah-berdasarkan-kabupatenkota-di-jawa-barat",
-            "modified": "2021-05-31",
+            "modified": "2021-08-19",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Dinas Tanaman Pangan Dan Hortikultura"
@@ -137,7 +137,7 @@
             "accessLevel": "public",
             "contactPoint": {
                 "fn": "Dinas Pendidikan",
-                "hasEmail": "mailto:noemailprovided@usa.gov"
+                "hasEmail": "mailto:disdik@jabarprov.go.idv"
             },
             "description": "Dataset ini berisi data jumlah guru sekolah menengah pertama (smp) berdasarkan jenis kelamin di Provinsi Jawa Barat periode tahun 2020.\n \n Dataset terkait topik Pendidikan ini dihasilkan oleh Dinas Pendidikan yang dikeluarkan dalam periode 1 tahun sekali.\n \n Penjelasan mengenai variabel di dalam dataset ini:\n *     kode_provinsi: menyatakan kode Provinsi Jawa Barat sesuai ketentuan BPS merujuk pada aturan Peraturan Badan Pusat Statistik Nomor 3 Tahun 2019 dengan tipe data numerik.\n *     nama_provinsi: menyatakan lingkup data berasal dari wilayah Provinsi Jawa Barat sesuai ketentuan BPS merujuk pada aturan Peraturan Badan Pusat Statistik Nomor 3 Tahun 2019 dengan tipe data teks.\n *     kode_kabupaten_kota: menyatakan kode dari setiap kabupaten dan kota di Provinsi Jawa Barat sesuai ketentuan BPS merujuk pada aturan Peraturan Badan Pusat Statistik Nomor 3 Tahun 2019 dengan tipe data numerik.\n *     nama_kabupaten_kota: menyatakan lingkup data berasal dari setiap kabupaten dan kota di Provinsi Jawa Barat sesuai penamaan BPS merujuk pada aturan Peraturan Badan Pusat Statistik Nomor 3 Tahun 2019 dengan tipe data teks.\n *     jenis_kelamin: menyatakan jenis kelamin guru sekolah menengah pertama dengan tipe data teks.\n    *     laki-laki: menyatakan guru sekolah menengah pertama berjenis kelamin laki-laki.\n    *     perempuan: menyatakan guru sekolah menengah pertama berjenis kelamin perempuan.\n *     jumlah_guru: menyatakan jumlah guru sekolah menengah pertama dengan tipe data numerik.\n *     satuan: menyatakan satuan dari pengukuran jumlah guru sekolah menengah pertama dalam orang dengan tipe data teks.\n *     tahun: menyatakan tahun produksi data dengan tipe data numerik.",
             "distribution": [
@@ -157,9 +157,9 @@
                 }
             ],
             "identifier": "700b292d-5d6f-430e-8255-60cdff077c7c",
-            "issued": "2021-05-29",
+            "issued": "2021-08-22",
             "landingPage": "https://opendata.jabarprov.go.id/id/dataset/jumlah-guru-sekolah-menengah-pertama-smp-berdasarkan-jenis-kelamin-di-jawa-barat",
-            "modified": "2021-05-31",
+            "modified": "2021-08-22",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Dinas Pendidikan"
@@ -171,6 +171,208 @@
                 "data agregat",
                 "jenis kelamin",
                 "sekolah menengah pertama"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Dinas Pendidikan",
+                "hasEmail": "mailto:disdik@jabarprov.go.id"
+            },
+            "description": "Dataset ini berisi data jumlah kepala sekolah dan guru sekolah menengah atas (sma) berdasarkan status kepegawaian di Provinsi Jawa Barat periode tahun 2019.\n\nDataset terkait topik Pendidikan ini dihasilkan oleh Dinas Pendidikan yang dikeluarkan dalam periode 1 tahun sekali.\n\nPenjelasan mengenai variabel di dalam dataset ini:\n*   kode_provinsi: menyatakan kode Provinsi Jawa Barat sesuai ketentuan BPS merujuk pada aturan Peraturan Badan Pusat Statistik Nomor 3 Tahun 2019 dengan tipe data numerik.\n*   nama_provinsi: menyatakan lingkup data berasal dari wilayah Provinsi Jawa Barat sesuai ketentuan BPS merujuk pada aturan Peraturan Badan Pusat Statistik Nomor 3 Tahun 2019 dengan tipe data teks.\n*   kode_kabupaten_kota: menyatakan kode dari setiap kabupaten dan kota di Provinsi Jawa Barat sesuai ketentuan BPS merujuk pada aturan Peraturan Badan Pusat Statistik Nomor 3 Tahun 2019 dengan tipe data numerik.\n*   nama_kabupaten_kota: menyatakan lingkup data berasal dari setiap kabupaten dan kota di Provinsi Jawa Barat sesuai penamaan BPS  merujuk pada aturan Peraturan Badan Pusat Statistik Nomor 3 Tahun 2019 dengan tipe data teks.\n*   status_kepegawaian: menyatakan status kepegawaian dari kepala sekolah dan guru sekolah menengah atas dengan tipe data teks.\n     *   tetap: menyatakan kepala sekolah dan guru sekolah menengah atas merupakan pegawai tetap.\n     *   tidak tetap: menyatakan kepala sekolah dan guru sekolah menengah atas merupakan pegawai tidak tetap.\n*    kategori_pegawai: menyatakan kategori pegawai kepala sekolah dan guru sekolah menengah atas dengan tipe data teks.\n     *   pns: menyatakan kepala sekolah dan guru sekolah menengah atas merupakan pegawai tetap dengan kategori pns.\n     *   yayasan:  menyatakan kepala sekolah dan guru sekolah menengah atas merupakan pegawai tetap dengan kategori yayasan.\n     *   guru bantu:  menyatakan kepala sekolah dan guru sekolah menengah atas merupakan pegawai tidak tetap dengan kategori guru bantu.\n     *   guru honda: menyatakan kepala sekolah dan guru sekolah menengah atas merupakan pegawai tidak tetap dengan kategori guru honorer daerah.\n     *   gtt: menyatakan kepala sekolah dan guru sekolah menengah atas merupakan pegawai tidak tetap dengan kategori guru tidak tetap.\n*   satuan: menyatakan satuan dari pengukuran jumlah kepala sekolah dan guru sekolah menengah atas dalam orang dengan tipe data teks.\n*   tahun: menyatakan tahun produksi data dengan tipe data numerik.",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "format": "html",
+                    "accessURL": "https://opendata.jabarprov.go.id/id/dataset/jumlah-kepala-sekolah-dan-guru-sekolah-menengah-atas-sma-berdasarkan-status-kepegawaian-di-jawa-barat",
+                    "description": "Dataset ini berisi data jumlah kepala sekolah dan guru sekolah menengah atas (sma) berdasarkan status kepegawaian di Provinsi Jawa Barat periode tahun 2019.\n\nDataset terkait topik Pendidikan ini dihasilkan oleh Dinas Pendidikan yang dikeluarkan dalam periode 1 tahun sekali.\n\nPenjelasan mengenai variabel di dalam dataset ini:\n*   kode_provinsi: menyatakan kode Provinsi Jawa Barat sesuai ketentuan BPS merujuk pada aturan Peraturan Badan Pusat Statistik Nomor 3 Tahun 2019 dengan tipe data numerik.\n*   nama_provinsi: menyatakan lingkup data berasal dari wilayah Provinsi Jawa Barat sesuai ketentuan BPS merujuk pada aturan Peraturan Badan Pusat Statistik Nomor 3 Tahun 2019 dengan tipe data teks.\n*   kode_kabupaten_kota: menyatakan kode dari setiap kabupaten dan kota di Provinsi Jawa Barat sesuai ketentuan BPS merujuk pada aturan Peraturan Badan Pusat Statistik Nomor 3 Tahun 2019 dengan tipe data numerik.\n*   nama_kabupaten_kota: menyatakan lingkup data berasal dari setiap kabupaten dan kota di Provinsi Jawa Barat sesuai penamaan BPS  merujuk pada aturan Peraturan Badan Pusat Statistik Nomor 3 Tahun 2019 dengan tipe data teks.\n*   status_kepegawaian: menyatakan status kepegawaian dari kepala sekolah dan guru sekolah menengah atas dengan tipe data teks.\n     *   tetap: menyatakan kepala sekolah dan guru sekolah menengah atas merupakan pegawai tetap.\n     *   tidak tetap: menyatakan kepala sekolah dan guru sekolah menengah atas merupakan pegawai tidak tetap.\n*    kategori_pegawai: menyatakan kategori pegawai kepala sekolah dan guru sekolah menengah atas dengan tipe data teks.\n     *   pns: menyatakan kepala sekolah dan guru sekolah menengah atas merupakan pegawai tetap dengan kategori pns.\n     *   yayasan:  menyatakan kepala sekolah dan guru sekolah menengah atas merupakan pegawai tetap dengan kategori yayasan.\n     *   guru bantu:  menyatakan kepala sekolah dan guru sekolah menengah atas merupakan pegawai tidak tetap dengan kategori guru bantu.\n     *   guru honda: menyatakan kepala sekolah dan guru sekolah menengah atas merupakan pegawai tidak tetap dengan kategori guru honorer daerah.\n     *   gtt: menyatakan kepala sekolah dan guru sekolah menengah atas merupakan pegawai tidak tetap dengan kategori guru tidak tetap.\n*   satuan: menyatakan satuan dari pengukuran jumlah kepala sekolah dan guru sekolah menengah atas dalam orang dengan tipe data teks.\n*   tahun: menyatakan tahun produksi data dengan tipe data numerik.",
+                    "title": "Jumlah Kepala Sekolah dan Guru Sekolah Menengah Atas (SMA) Berdasarkan Status Kepegawaian di Jawa Barat"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://data.jabarprov.go.id/api-backend/bigdata/disdik/od_17345_jml_kepala_sekolah_guru_sekolah_menengah_sma__status_k?download=csv",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Jumlah Kepala Sekolah dan Guru Sekolah Menengah Atas (SMA) Berdasarkan Status Kepegawaian di Jawa Barat"
+                }
+            ],
+            "identifier": "700b292d-5d6f-430e-8255-60cdff077c7c",
+            "issued": "2021-09-11",
+            "landingPage": "https://opendata.jabarprov.go.id/id/dataset/jumlah-kepala-sekolah-dan-guru-sekolah-menengah-atas-sma-berdasarkan-status-kepegawaian-di-jawa-barat",
+            "modified": "2021-09-11",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Dinas Pendidikan"
+            },
+            "title": "Jumlah Kepala Sekolah dan Guru Sekolah Menengah Atas (SMA) Berdasarkan Status Kepegawaian di Jawa Barat",
+            "keyword": [
+                "pendidikan",
+                "data agregat",
+                "status kepegawaian",
+                "sekolah menengah atas",
+                "jumlah kepsek dan guru"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Dinas Pendidikan",
+                "hasEmail": "mailto:disdik@jabarprov.go.id"
+            },
+            "description": "Dataset ini berisi data jumlah kepala sekolah dan guru sekolah menengah atas (sma) berdasarkan kelompok umur di Provinsi Jawa Barat periode tahun 2019.\n\nDataset terkait topik Pendidikan ini dihasilkan oleh Dinas Pendidikan yang dikeluarkan dalam periode 1 tahun sekali.\n\nPenjelasan mengenai variabel di dalam dataset ini:\n*   kode_provinsi: menyatakan kode Provinsi Jawa Barat sesuai ketentuan BPS merujuk pada aturan Peraturan Badan Pusat Statistik Nomor 3 Tahun 2019 dengan tipe data numerik.\n*   nama_provinsi: menyatakan lingkup data berasal dari wilayah Provinsi Jawa Barat sesuai ketentuan BPS merujuk pada aturan Peraturan Badan Pusat Statistik Nomor 3 Tahun 2019 dengan tipe data teks.\n*   kode_kabupaten_kota: menyatakan kode dari setiap kabupaten dan kota di Provinsi Jawa Barat sesuai ketentuan BPS merujuk pada aturan Peraturan Badan Pusat Statistik Nomor 3 Tahun 2019 dengan tipe data numerik.\n*   nama_kabupaten_kota: menyatakan lingkup data berasal dari setiap kabupaten dan kota di Provinsi Jawa Barat sesuai penamaan BPS  merujuk pada aturan Peraturan Badan Pusat Statistik Nomor 3 Tahun 2019 dengan tipe data teks.\n*   kelompok_umur: menyatakan kelompok umur dari kepala sekolah dan guru sekolah menengah atas dengan tipe data teks.\n     *   <19: menyatakan kepala sekolah dan guru sekolah menengah atas dengan umur kurang dari 19 tahun.\n     *   20-29: menyatakan kepala sekolah dan guru sekolah menengah atas dengan umur 20-29 tahun.\n     *   30-39: menyatakan kepala sekolah dan guru sekolah menengah atas dengan umur 30-39 tahun.\n     *   40-49: menyatakan kepala sekolah dan guru sekolah menengah atas dengan umur 40-49 tahun.\n     *   50-59: menyatakan kepala sekolah dan guru sekolah menengah atas dengan umur 50-59 tahun.\n     *   >60: menyatakan kepala sekolah dan guru sekolah menengah atas dengan umur lebih dari 60 tahun.\n*   jumlah_kepsek_guru: menyatakan jumlah kepala sekolah dan guru sekolah menengah atas dengan tipe data numerik.\n*   satuan: menyatakan satuan dari pengukuran jumlah kepala sekolah dan guru sekolah menengah atas dalam orang dengan tipe data teks.\n*   tahun: menyatakan tahun produksi data dengan tipe data numerik.",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "format": "html",
+                    "accessURL": "https://opendata.jabarprov.go.id/id/dataset/jumlah-kepala-sekolah-dan-guru-sekolah-menengah-atas-sma-berdasarkan-kelompok-umur-di-jawa-barat",
+                    "description": "Dataset ini berisi data jumlah kepala sekolah dan guru sekolah menengah atas (sma) berdasarkan kelompok umur di Provinsi Jawa Barat periode tahun 2019.\n\nDataset terkait topik Pendidikan ini dihasilkan oleh Dinas Pendidikan yang dikeluarkan dalam periode 1 tahun sekali.\n\nPenjelasan mengenai variabel di dalam dataset ini:\n*   kode_provinsi: menyatakan kode Provinsi Jawa Barat sesuai ketentuan BPS merujuk pada aturan Peraturan Badan Pusat Statistik Nomor 3 Tahun 2019 dengan tipe data numerik.\n*   nama_provinsi: menyatakan lingkup data berasal dari wilayah Provinsi Jawa Barat sesuai ketentuan BPS merujuk pada aturan Peraturan Badan Pusat Statistik Nomor 3 Tahun 2019 dengan tipe data teks.\n*   kode_kabupaten_kota: menyatakan kode dari setiap kabupaten dan kota di Provinsi Jawa Barat sesuai ketentuan BPS merujuk pada aturan Peraturan Badan Pusat Statistik Nomor 3 Tahun 2019 dengan tipe data numerik.\n*   nama_kabupaten_kota: menyatakan lingkup data berasal dari setiap kabupaten dan kota di Provinsi Jawa Barat sesuai penamaan BPS  merujuk pada aturan Peraturan Badan Pusat Statistik Nomor 3 Tahun 2019 dengan tipe data teks.\n*   kelompok_umur: menyatakan kelompok umur dari kepala sekolah dan guru sekolah menengah atas dengan tipe data teks.\n     *   <19: menyatakan kepala sekolah dan guru sekolah menengah atas dengan umur kurang dari 19 tahun.\n     *   20-29: menyatakan kepala sekolah dan guru sekolah menengah atas dengan umur 20-29 tahun.\n     *   30-39: menyatakan kepala sekolah dan guru sekolah menengah atas dengan umur 30-39 tahun.\n     *   40-49: menyatakan kepala sekolah dan guru sekolah menengah atas dengan umur 40-49 tahun.\n     *   50-59: menyatakan kepala sekolah dan guru sekolah menengah atas dengan umur 50-59 tahun.\n     *   >60: menyatakan kepala sekolah dan guru sekolah menengah atas dengan umur lebih dari 60 tahun.\n*   jumlah_kepsek_guru: menyatakan jumlah kepala sekolah dan guru sekolah menengah atas dengan tipe data numerik.\n*   satuan: menyatakan satuan dari pengukuran jumlah kepala sekolah dan guru sekolah menengah atas dalam orang dengan tipe data teks.\n*   tahun: menyatakan tahun produksi data dengan tipe data numerik.",
+                    "title": "Jumlah Kepala Sekolah dan Guru Sekolah Menengah Atas (SMA) Berdasarkan Kelompok Umur di Jawa Barat"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://data.jabarprov.go.id/api-backend/bigdata/disdik/od_17344_jml_kepala_sekolah_guru_sekolah_menengah_sma__kelompok?download=csv",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Jumlah Kepala Sekolah dan Guru Sekolah Menengah Atas (SMA) Berdasarkan Kelompok Umur di Jawa Barat"
+                }
+            ],
+            "identifier": "700b292d-5d6f-430e-8255-60cdff077c7c",
+            "issued": "2021-09-11",
+            "landingPage": "https://opendata.jabarprov.go.id/id/dataset/jumlah-kepala-sekolah-dan-guru-sekolah-menengah-atas-sma-berdasarkan-kelompok-umur-di-jawa-barat",
+            "modified": "2021-09-11",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Dinas Pendidikan"
+            },
+            "title": "Jumlah Kepala Sekolah dan Guru Sekolah Menengah Atas (SMA) Berdasarkan Kelompok Umur di Jawa Barat",
+            "keyword": [
+                "pendidikan",
+                "data agregat",
+                "sekolah menengah atas",
+                "jumlah kepsek dan guru"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Dinas Pendidikan",
+                "hasEmail": "mailto:disdik@jabarprov.go.id"
+            },
+            "description": "Dataset ini berisi data jumlah kepala sekolah dan guru sekolah menengah atas (sma) berdasarkan kabupaten/kota di Provinsi Jawa Barat dari periode tahun 2019.\n\nDataset terkait topik Pendidikan ini dihasilkan oleh Dinas Pendidikan yang dikeluarkan dalam periode 1 tahun sekali.\n\nPenjelasan mengenai variabel di dalam dataset ini:\n*   kode_provinsi: menyatakan kode Provinsi Jawa Barat sesuai ketentuan BPS merujuk pada aturan Peraturan Badan Pusat Statistik Nomor 3 Tahun 2019 dengan tipe data numerik.\n*   nama_provinsi: menyatakan lingkup data berasal dari wilayah Provinsi Jawa Barat sesuai ketentuan BPS merujuk pada aturan Peraturan Badan Pusat Statistik Nomor 3 Tahun 2019 dengan tipe data teks.\n*   kode_kabupaten_kota: menyatakan kode dari setiap kabupaten dan kota di Provinsi Jawa Barat sesuai ketentuan BPS merujuk pada aturan Peraturan Badan Pusat Statistik Nomor 3 Tahun 2019 dengan tipe data numerik.\n*   nama_kabupaten_kota: menyatakan lingkup data berasal dari setiap kabupaten dan kota di Provinsi Jawa Barat sesuai penamaan BPS  merujuk pada aturan Peraturan Badan Pusat Statistik Nomor 3 Tahun 2019 dengan tipe data teks.\n*   jumlah_kepsek_guru: menyatakan jumlah kepala sekolah dan guru sekolah menengah atas dengan tipe data numerik.\n*   satuan: menyatakan satuan dari pengukuran jumlah kepala sekolah dan guru sekolah menengah atas dalam orang dengan tipe data teks.\n*   tahun: menyatakan tahun produksi data dengan tipe data numerik.",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "format": "html",
+                    "accessURL": "https://opendata.jabarprov.go.id/id/dataset/jumlah-kepala-sekolah-dan-guru-sekolah-menengah-atas-sma-berdasarkan-kabupatenkota-di-jawa-barat",
+                    "description": "Dataset ini berisi data jumlah kepala sekolah dan guru sekolah menengah atas (sma) berdasarkan kabupaten/kota di Provinsi Jawa Barat dari periode tahun 2019.\n\nDataset terkait topik Pendidikan ini dihasilkan oleh Dinas Pendidikan yang dikeluarkan dalam periode 1 tahun sekali.\n\nPenjelasan mengenai variabel di dalam dataset ini:\n*   kode_provinsi: menyatakan kode Provinsi Jawa Barat sesuai ketentuan BPS merujuk pada aturan Peraturan Badan Pusat Statistik Nomor 3 Tahun 2019 dengan tipe data numerik.\n*   nama_provinsi: menyatakan lingkup data berasal dari wilayah Provinsi Jawa Barat sesuai ketentuan BPS merujuk pada aturan Peraturan Badan Pusat Statistik Nomor 3 Tahun 2019 dengan tipe data teks.\n*   kode_kabupaten_kota: menyatakan kode dari setiap kabupaten dan kota di Provinsi Jawa Barat sesuai ketentuan BPS merujuk pada aturan Peraturan Badan Pusat Statistik Nomor 3 Tahun 2019 dengan tipe data numerik.\n*   nama_kabupaten_kota: menyatakan lingkup data berasal dari setiap kabupaten dan kota di Provinsi Jawa Barat sesuai penamaan BPS  merujuk pada aturan Peraturan Badan Pusat Statistik Nomor 3 Tahun 2019 dengan tipe data teks.\n*   jumlah_kepsek_guru: menyatakan jumlah kepala sekolah dan guru sekolah menengah atas dengan tipe data numerik.\n*   satuan: menyatakan satuan dari pengukuran jumlah kepala sekolah dan guru sekolah menengah atas dalam orang dengan tipe data teks.\n*   tahun: menyatakan tahun produksi data dengan tipe data numerik.",
+                    "title": "Jumlah Kepala Sekolah dan Guru Sekolah Menengah Atas (SMA) Berdasarkan Kabupaten/Kota di Jawa Barat"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://data.jabarprov.go.id/api-backend/bigdata/disdik/od_17343_jml_kepala_sekolah_guru_sekolah_menengah_sma__kabupate?download=csv",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Jumlah Kepala Sekolah dan Guru Sekolah Menengah Atas (SMA) Berdasarkan Kabupaten/Kota di Jawa Barat"
+                }
+            ],
+            "identifier": "700b292d-5d6f-430e-8255-60cdff077c7c",
+            "issued": "2021-09-11",
+            "landingPage": "https://opendata.jabarprov.go.id/id/dataset/jumlah-kepala-sekolah-dan-guru-sekolah-menengah-atas-sma-berdasarkan-kabupatenkota-di-jawa-barat",
+            "modified": "2021-09-11",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Dinas Pendidikan"
+            },
+            "title": "Jumlah Kepala Sekolah dan Guru Sekolah Menengah Atas (SMA) Berdasarkan Kabupaten/Kota di Jawa Barat",
+            "keyword": [
+                "pendidikan",
+                "data agregat",
+                "sekolah menengah atas",
+                "jumlah kepsek dan guru"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Dinas Pendidikan",
+                "hasEmail": "mailto:disdik@jabarprov.go.id"
+            },
+            "description": "Dataset ini berisi data jumlah kepala sekolah dan guru sekolah menengah atas (sma) berdasarkan jenis kelamin dan status sekolah di Provinsi Jawa Barat periode tahun 2019.\n \nDataset terkait topik Pendidikan ini dihasilkan oleh Dinas Pendidikan yang dikeluarkan dalam periode 1 tahun sekali.\n \nPenjelasan mengenai variabel di dalam dataset ini:\n*    kode_provinsi: menyatakan kode Provinsi Jawa Barat sesuai ketentuan BPS merujuk pada aturan Peraturan Badan Pusat Statistik Nomor 3 Tahun 2019 dengan tipe data numerik.\n*    nama_provinsi: menyatakan lingkup data berasal dari wilayah Provinsi Jawa Barat sesuai ketentuan BPS merujuk pada aturan Peraturan Badan Pusat Statistik Nomor 3 Tahun 2019 dengan tipe data teks.\n*    kode_kabupaten_kota: menyatakan kode dari setiap kabupaten dan kota di Provinsi Jawa Barat sesuai ketentuan BPS merujuk pada aturan Peraturan Badan Pusat Statistik Nomor 3 Tahun 2019 dengan tipe data numerik.\n*    nama_kabupaten_kota: menyatakan lingkup data berasal dari setiap kabupaten dan kota di Provinsi Jawa Barat sesuai penamaan BPS merujuk pada aturan Peraturan Badan Pusat Statistik Nomor 3 Tahun 2019 dengan tipe data teks.\n*    jenis_kelamin: menyatakan jenis kelamin kepala sekolah dan guru sekolah menengah atas dengan tipe data teks.\n     *   laki-laki: menyatakan kepala sekolah dan guru sekolah menengah atas berjenis kelamin laki-laki.\n     *   perempuan: menyatakan kepala sekolah dan guru sekolah menengah atas berjenis kelamin perempuan.\n*    status_sekolah: menyatakan status sekolah menengah atas dengan tipe data teks.\n     *   negeri: menyatakan sekolah yang dioperasikan/disediakan oleh pemerintah.\n     *   swasta: menyatakan sekolah yang dimiliki dan dibiayai oleh perorangan ataupun yayasan.\n*    jumlah_kepsek_guru: menyatakan jumlah kepala sekolah dan guru sekolah menengah atas dengan tipe data numerik.\n*    satuan: menyatakan satuan dari pengukuran jumlah kepala sekolah dan guru sekolah menengah atas dalam orang dengan tipe data teks.\n*    tahun: menyatakan tahun produksi data dengan tipe data numerik.",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "format": "html",
+                    "accessURL": "https://opendata.jabarprov.go.id/id/dataset/jumlah-kepala-sekolah-dan-guru-sekolah-menengah-atas-sma-berdasarkan-jenis-kelamin-dan-status-sekolah-di-jawa-barat",
+                    "description": "Dataset ini berisi data jumlah kepala sekolah dan guru sekolah menengah atas (sma) berdasarkan jenis kelamin dan status sekolah di Provinsi Jawa Barat periode tahun 2019.\n \nDataset terkait topik Pendidikan ini dihasilkan oleh Dinas Pendidikan yang dikeluarkan dalam periode 1 tahun sekali.\n \nPenjelasan mengenai variabel di dalam dataset ini:\n*    kode_provinsi: menyatakan kode Provinsi Jawa Barat sesuai ketentuan BPS merujuk pada aturan Peraturan Badan Pusat Statistik Nomor 3 Tahun 2019 dengan tipe data numerik.\n*    nama_provinsi: menyatakan lingkup data berasal dari wilayah Provinsi Jawa Barat sesuai ketentuan BPS merujuk pada aturan Peraturan Badan Pusat Statistik Nomor 3 Tahun 2019 dengan tipe data teks.\n*    kode_kabupaten_kota: menyatakan kode dari setiap kabupaten dan kota di Provinsi Jawa Barat sesuai ketentuan BPS merujuk pada aturan Peraturan Badan Pusat Statistik Nomor 3 Tahun 2019 dengan tipe data numerik.\n*    nama_kabupaten_kota: menyatakan lingkup data berasal dari setiap kabupaten dan kota di Provinsi Jawa Barat sesuai penamaan BPS merujuk pada aturan Peraturan Badan Pusat Statistik Nomor 3 Tahun 2019 dengan tipe data teks.\n*    jenis_kelamin: menyatakan jenis kelamin kepala sekolah dan guru sekolah menengah atas dengan tipe data teks.\n     *   laki-laki: menyatakan kepala sekolah dan guru sekolah menengah atas berjenis kelamin laki-laki.\n     *   perempuan: menyatakan kepala sekolah dan guru sekolah menengah atas berjenis kelamin perempuan.\n*    status_sekolah: menyatakan status sekolah menengah atas dengan tipe data teks.\n     *   negeri: menyatakan sekolah yang dioperasikan/disediakan oleh pemerintah.\n     *   swasta: menyatakan sekolah yang dimiliki dan dibiayai oleh perorangan ataupun yayasan.\n*    jumlah_kepsek_guru: menyatakan jumlah kepala sekolah dan guru sekolah menengah atas dengan tipe data numerik.\n*    satuan: menyatakan satuan dari pengukuran jumlah kepala sekolah dan guru sekolah menengah atas dalam orang dengan tipe data teks.\n*    tahun: menyatakan tahun produksi data dengan tipe data numerik.",
+                    "title": "Jumlah Kepala Sekolah dan Guru Sekolah Menengah Atas (SMA) Berdasarkan Jenis Kelamin dan Status Sekolah di Jawa Barat"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://data.jabarprov.go.id/api-backend/bigdata/disdik/od_17342_jml_kepala_sekolah_guru_sekolah_menengah_sma__jk_statu?download=csv",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Jumlah Kepala Sekolah dan Guru Sekolah Menengah Atas (SMA) Berdasarkan Jenis Kelamin dan Status Sekolah di Jawa Barat"
+                }
+            ],
+            "identifier": "700b292d-5d6f-430e-8255-60cdff077c7c",
+            "issued": "2021-09-11",
+            "landingPage": "https://opendata.jabarprov.go.id/id/dataset/jumlah-kepala-sekolah-dan-guru-sekolah-menengah-atas-sma-berdasarkan-jenis-kelamin-dan-status-sekolah-di-jawa-barat",
+            "modified": "2021-09-11",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Dinas Pendidikan"
+            },
+            "title": "Jumlah Kepala Sekolah dan Guru Sekolah Menengah Atas (SMA) Berdasarkan Jenis Kelamin dan Status Sekolah di Jawa Barat",
+            "keyword": [
+                "pendidikan",
+                "data agregat",
+                "status sekolah",
+                "sekolah menengah atas",
+                "jumlah kepsek dan guru"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Dinas Pendidikan",
+                "hasEmail": "mailto:disdik@jabarprov.go.id"
+            },
+            "description": "Dataset ini berisi data jumlah kepala sekolah dan guru sekolah menengah atas (sma) berdasarkan jenis kelamin dan ijazah tertinggi di Provinsi Jawa Barat periode tahun 2019.\n\nDataset terkait topik Pendidikan ini dihasilkan oleh Dinas Pendidikan yang dikeluarkan dalam periode 1 tahun sekali.\n\nPenjelasan mengenai variabel di dalam dataset ini:\n*   kode_provinsi: menyatakan kode Provinsi Jawa Barat sesuai ketentuan BPS merujuk pada aturan Peraturan Badan Pusat Statistik Nomor 3 Tahun 2019 dengan tipe data numerik.\n*   nama_provinsi: menyatakan lingkup data berasal dari wilayah Provinsi Jawa Barat sesuai ketentuan BPS merujuk pada aturan Peraturan Badan Pusat Statistik Nomor 3 Tahun 2019 dengan tipe data teks.\n*   kode_kabupaten_kota: menyatakan kode dari setiap kabupaten dan kota di Provinsi Jawa Barat sesuai ketentuan BPS merujuk pada aturan Peraturan Badan Pusat Statistik Nomor 3 Tahun 2019 dengan tipe data numerik.\n*   nama_kabupaten_kota: menyatakan lingkup data berasal dari setiap kabupaten dan kota di Provinsi Jawa Barat sesuai penamaan BPS merujuk pada aturan Peraturan Badan Pusat Statistik Nomor 3 Tahun 2019 dengan tipe data teks.\n*   jenis_kelamin: menyatakan jenis kelamin kepala sekolah dan guru sekolah menengah atas dengan tipe data teks.\n     *   laki-laki: menyatakan kepala sekolah dan guru sekolah menengah atas berjenis kelamin laki-laki.\n     *   perempuan: menyatakan kepala sekolah dan guru sekolah menengah atas berjenis kelamin perempuan.\n*   ijazah_tertinggi: menyatakan ijazah tertinggi yang dimiliki kepala sekolah dan guru sekolah menengah atas dengan tipe data teks.\n    *   <s1: menyatakan kepala sekolah dan guru sekolah menengah atas berpendidikan terakhir dibawah strata 1.\n    *   >=s1: menyatakan kepala sekolah dan guru sekolah menengah atas berpendidikan terakhir strata 1 atau lebih.\n*   jumlah_kepsek_guru: menyatakan jumlah kepala sekolah dan guru sekolah menengah atas dengan tipe data numerik.\n*   satuan: menyatakan satuan dari pengukuran jumlah kepala sekolah dan guru sekolah menengah atas dalam orang dengan tipe data teks.\n*   tahun: menyatakan tahun produksi data dengan tipe data numerik.",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "format": "html",
+                    "accessURL": "https://opendata.jabarprov.go.id/id/dataset/jumlah-kepala-sekolah-dan-guru-sekolah-menengah-kejuruan-smk-berdasarkan-jenis-kelamin-dan-ijazah-tertinggi-di-jawa-barat",  
+                    "description": "Dataset ini berisi data jumlah kepala sekolah dan guru sekolah menengah atas (sma) berdasarkan jenis kelamin dan ijazah tertinggi di Provinsi Jawa Barat periode tahun 2019.\n\nDataset terkait topik Pendidikan ini dihasilkan oleh Dinas Pendidikan yang dikeluarkan dalam periode 1 tahun sekali.\n\nPenjelasan mengenai variabel di dalam dataset ini:\n*   kode_provinsi: menyatakan kode Provinsi Jawa Barat sesuai ketentuan BPS merujuk pada aturan Peraturan Badan Pusat Statistik Nomor 3 Tahun 2019 dengan tipe data numerik.\n*   nama_provinsi: menyatakan lingkup data berasal dari wilayah Provinsi Jawa Barat sesuai ketentuan BPS merujuk pada aturan Peraturan Badan Pusat Statistik Nomor 3 Tahun 2019 dengan tipe data teks.\n*   kode_kabupaten_kota: menyatakan kode dari setiap kabupaten dan kota di Provinsi Jawa Barat sesuai ketentuan BPS merujuk pada aturan Peraturan Badan Pusat Statistik Nomor 3 Tahun 2019 dengan tipe data numerik.\n*   nama_kabupaten_kota: menyatakan lingkup data berasal dari setiap kabupaten dan kota di Provinsi Jawa Barat sesuai penamaan BPS merujuk pada aturan Peraturan Badan Pusat Statistik Nomor 3 Tahun 2019 dengan tipe data teks.\n*   jenis_kelamin: menyatakan jenis kelamin kepala sekolah dan guru sekolah menengah atas dengan tipe data teks.\n     *   laki-laki: menyatakan kepala sekolah dan guru sekolah menengah atas berjenis kelamin laki-laki.\n     *   perempuan: menyatakan kepala sekolah dan guru sekolah menengah atas berjenis kelamin perempuan.\n*   ijazah_tertinggi: menyatakan ijazah tertinggi yang dimiliki kepala sekolah dan guru sekolah menengah atas dengan tipe data teks.\n    *   <s1: menyatakan kepala sekolah dan guru sekolah menengah atas berpendidikan terakhir dibawah strata 1.\n    *   >=s1: menyatakan kepala sekolah dan guru sekolah menengah atas berpendidikan terakhir strata 1 atau lebih.\n*   jumlah_kepsek_guru: menyatakan jumlah kepala sekolah dan guru sekolah menengah atas dengan tipe data numerik.\n*   satuan: menyatakan satuan dari pengukuran jumlah kepala sekolah dan guru sekolah menengah atas dalam orang dengan tipe data teks.\n*   tahun: menyatakan tahun produksi data dengan tipe data numerik.",
+                    "title": "Jumlah Kepala Sekolah dan Guru Sekolah Menengah Atas (SMA) Berdasarkan Ijazah Tertinggi di Jawa Barat"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://data.jabarprov.go.id/api-backend/bigdata/disdik/od_17341_jml_kepala_sekolah_guru_sekolah_menengah_sma__ijazah_t?download=csv",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Jumlah Kepala Sekolah dan Guru Sekolah Menengah Atas (SMA) Berdasarkan Ijazah Tertinggi di Jawa Barat"
+                }
+            ],
+            "identifier": "700b292d-5d6f-430e-8255-60cdff077c7c",
+            "issued": "2021-09-11",
+            "landingPage": "https://opendata.jabarprov.go.id/id/dataset/jumlah-kepala-sekolah-dan-guru-sekolah-menengah-kejuruan-smk-berdasarkan-jenis-kelamin-dan-ijazah-tertinggi-di-jawa-barat",   
+            "modified": "2021-09-11",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Dinas Pendidikan"
+            },
+            "title": "Jumlah Kepala Sekolah dan Guru Sekolah Menengah Atas (SMA) Berdasarkan Ijazah Tertinggi di Jawa Barat",
+            "keyword": [
+                "pendidikan",
+                "data agregat",
+                "sekolah menengah atas",
+                "jumlah kepsek dan guru"
             ]
         }
     ]
