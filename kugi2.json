@@ -1,0 +1,37 @@
+{
+    "@context": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld",
+    "@id": "https://kugi.ina-sdi.or.id:8080/kugiapi/featurecatalog",
+    "@type": "dcat:Catalog",
+    "conformsTo": "https://project-open-data.cio.gov/v1.1/schema",
+    "describedBy": "https://project-open-data.cio.gov/v1.1/schema/catalog.json",
+    "dataset": [
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Badan Informasi Geospasial",
+                "hasEmail": "mailto:info@big.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://kugi.ina-sdi.or.id:8080/kugiapi/featuretypegetbycode?code=ZB03060020",
+                    "mediaType": "application/json",
+                    "format": "json",
+                    "title": "AIRTANAH_AR"
+                }
+            ],
+            "identifier": "c4ca4238a0b923820dcc509a6f75849b",
+            "issued": "2017",
+            "landingPage": "https://kugi.ina-sdi.or.id/searchresult?fcid=14&code=ZB03060020",
+            "modified": "-",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Kementerian Pekerjaan Umum dan Perumahan Rakyat"
+            },
+            "title": "AIRTANAH_AR",
+            "description": "Definisi: Air Tanah dapat didefinisikan sebagai air yang tidak berada di permukaan dan berada pada lapisan diantara batuan kedap air di dalam tanah. Referensi Definisi: Permen PUPR No. 09/PRT/M/2015. Versi Katalog: Versi 5",
+            "keyword": []
+        }
+    ]
+}
