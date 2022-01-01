@@ -12,7 +12,7 @@
         <NameIDFormat>urn:oasis:names:tc:SAML:1.1:nameid-format:unspecified
         </NameIDFormat>
         <AssertionConsumerService
-                Binding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-POST" Location="https://katalog.data.go.id/acs"
+                Binding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-POST" Location="https://katalog.data.go.id/user/saml2login"
                 index="1" isDefault="true" />
     </SPSSODescriptor>
 </EntityDescriptor>
