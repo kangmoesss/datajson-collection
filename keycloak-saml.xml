@@ -1,0 +1,33 @@
+<keycloak-saml-adapter>
+    <SP entityID="SPECIFY YOUR entityID!"
+        sslPolicy="EXTERNAL"
+        logoutPage="SPECIFY YOUR LOGOUT PAGE!">
+        <Keys>
+            <Key signing="true">
+                <PrivateKeyPem>
+                    MIIEpAIBAAKCAQEAxC3L/0Zt5Oqywi0Z1SYyGVjFc5nk52WIXEbRw2n5kkNQwfVVztOGfc+PU4uNohSYX1AIZ4s3HEjCg5e35Ydv6rTaDI9HFqJ4OxYnme38IU4i1gn9shJGbl9cNMnzugfKMR1SXTdj/mugT5uobigFoR3+TKutxsAXgQ2tYEjb902SHqKqmSWl8Obg6EO1PHymq/dDioYWCIXJA6RdIt6CbM53QIGf2TKaBWba7fu7uu97y+RDtibgrkk+kKKjpjMpkYhRHVZa9IXKF8RlIVAIDnCiRC0LMD6n9oYW8GoU20TWzpTIzkWPxfoEqSwA6bsVImXSa7VtYbBd3CnvEqtvfQIDAQABAoIBAATnOCALPJfqHcmoouqm572mcFjxUb1O1leoFXoS3f//2rbeUOS4eLYQR/7IkCOq7BwFvhAIdLoqP2JWmmwMNInjN0f1FMvGB8dCSH8aaaDTeR9sZIDc4BHGJGHVYlgV9cHAf9yAk+k5+2nB9DW8nldmjoKQD+nVx0CcfObZK1ZE+NPbFaamSU1B9qNHvWX0W/fDYy+Clhhg4Ijv0NND5bs3nBrX0p2A90kmRvxst2USA0FQA96xkAgcoVQXItQgUO+S+BYAJ3ktPV0f18cIEyJp32i5WaEb4qpIXrYdT2lpIkKkaQ7DXK9W097UnWir0bcXUmRsLubiaV2kpqsab+kCgYEA8dC3Hy7J7j7itnAbSna+j01pCxZ2yuAcMOWYFwdqyk6gDClbju2OIMkM05E2pQRCbEuRLkjdFI/uoYlCMywGV/xVbpG9cXa1cnrDjAJg5VpIBBGgZoWl4dJOmu/SJfVSjulUmnLaVNMEb43zXIfnL9b8FA/9DTKTJLm7dkD9hFMCgYEAz6/FLL8ThSEYf+vAiSPdrHL5STE0PUD0PD/AWuGDMTkqdfW236OAt2uedjeeq4iB38hUxjv9alVDkfndA4DfckOhlxAXlnNjKyupf5ZcguajfPiap2hoDCHd7qRhTm8VBzoqqQQk/KMEFaDtlh1+gICzl6OF2Avme7Rm6+Kywu8CgYEAviqISFKQZPc5bYW+QJIfjCyxZhHVe/hA00dLkxi3J8ArZ0UDBuTUt/3EQ4FYeu9dmTLYSpDso+YJISoDUKDXoEwFl32vgNJ9ITlgHPQl5VhZeDGwdc+2w1+Th48AMe+6bD8c1JVsE/ca7uuwLd2Gtv2XoeNs+vsB8ojJ3tZ/SJcCgYEAybj49ABXjlxZ9o3ewZVzjzdRSDUhf0lisE5foCYgDiRvSImz6T5fHEjMbhiR5hw9wUVMigrklm5gph2h/PAkmFB2WErKDlje/qR3CrTaAE7ShuTVGjs/rGEMtek1lkAwlYd6vhWHc1dG9VcMzVyybVAUn/m1W+YbJRZRTVYwuUMCgYB48adqVM66xvxfuRL0qp7YTwS7g61/900zVH2DPQt5RKUPAXdn+NsADW3VepAQaaiqV/f6gzz8bb0tPmbvjoNeRVm7juUMfzHcYIS1QFo2JSCvADDlymV4pTyLi+AT49I6hwvRFw2lMDF5O2ZCKq1GBXT9mgcWPwUoTXOskSrg9A==
+                </PrivateKeyPem>
+                <CertificatePem>
+                    MIIClzCCAX8CBgF+FAgu8TANBgkqhkiG9w0BAQsFADAPMQ0wCwYDVQQDDARja2FuMB4XDTIyMDEwMTA1MDQ0N1oXDTMyMDEwMTA1MDYyN1owDzENMAsGA1UEAwwEY2thbjCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAMQty/9GbeTqssItGdUmMhlYxXOZ5OdliFxG0cNp+ZJDUMH1Vc7Thn3Pj1OLjaIUmF9QCGeLNxxIwoOXt+WHb+q02gyPRxaieDsWJ5nt/CFOItYJ/bISRm5fXDTJ87oHyjEdUl03Y/5roE+bqG4oBaEd/kyrrcbAF4ENrWBI2/dNkh6iqpklpfDm4OhDtTx8pqv3Q4qGFgiFyQOkXSLegmzOd0CBn9kymgVm2u37u7rve8vkQ7Ym4K5JPpCio6YzKZGIUR1WWvSFyhfEZSFQCA5wokQtCzA+p/aGFvBqFNtE1s6UyM5Fj8X6BKksAOm7FSJl0mu1bWGwXdwp7xKrb30CAwEAATANBgkqhkiG9w0BAQsFAAOCAQEAkFDE0a7BOOHJWTA0fDJl9VjJF/rRhiu8YoUxXfb5MkC/2rNOjqr3I3zlskZhrMMeWOdmPBv9X3vjeZN2eWz9pmZeShYAr+kkroqu7qkqq+gmv0bLQFcmon9/Ps2ydpye3M2GJdWgwZg50/aibgNwgxiSHl+Z5Coai2VHYPzfDhgE93Pjribj4+H3SbdUVvKWZMug/xrPoT6xP5uGxpxBq0ot57/p/qr7rD82HxmWq+qAPCZGZunJSU7ZK1n2QwIaDgfnauHwjYZ/RyFM8oIEwYAMpBLiPt+StiFqWzIruFuS5+esXPJBIL5mX5BUcC9mAtdEGNLrA5nrEKKtd22NxQ==
+                </CertificatePem>
+            </Key>
+        </Keys>
+        <IDP entityID="idp"
+             signatureAlgorithm="RSA_SHA256"
+             signatureCanonicalizationMethod="http://www.w3.org/2001/10/xml-exc-c14n#">
+            <SingleSignOnService signRequest="true"
+                                 validateResponseSignature="true"
+                                 validateAssertionSignature="false"
+                                 requestBinding="POST"
+                                 bindingUrl="https://sso.deltadatamandiri.com/auth/realms/ckan-sdi01/protocol/saml"/>
+            <SingleLogoutService signRequest="true"
+                                 signResponse="true"
+                                 validateRequestSignature="true"
+                                 validateResponseSignature="true"
+                                 requestBinding="POST"
+                                 responseBinding="POST"
+                                 postBindingUrl="https://sso.deltadatamandiri.com/auth/realms/ckan-sdi01/protocol/saml"
+                                 redirectBindingUrl="https://sso.deltadatamandiri.com/auth/realms/ckan-sdi01/protocol/saml"/>
+        </IDP>
+    </SP>
+</keycloak-saml-adapter>
