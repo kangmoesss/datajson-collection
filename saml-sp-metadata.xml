@@ -1,11 +1,23 @@
-<EntityDescriptor xmlns="urn:oasis:names:tc:SAML:2.0:metadata" entityID="https://sso.deltadatamandiri.com/auth/realms/ckan-sdi01">
-    <SPSSODescriptor AuthnRequestsSigned="false" WantAssertionsSigned="false"
-            protocolSupportEnumeration="urn:oasis:names:tc:SAML:2.0:protocol urn:oasis:names:tc:SAML:1.1:protocol http://schemas.xmlsoap.org/ws/2003/07/secext">
-        <SingleLogoutService Binding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-POST" Location="https://sso.deltadatamandiri.com/auth/realms/ckan-sdi01/broker/saml/endpoint"/>
-        <NameIDFormat>urn:oasis:names:tc:SAML:2.0:nameid-format:persistent
-        </NameIDFormat>
-        <AssertionConsumerService
-                Binding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-POST" Location="https://sso.deltadatamandiri.com/auth/realms/ckan-sdi01/broker/saml/endpoint"
-                index="1" isDefault="true" />
-    </SPSSODescriptor>
+<EntitiesDescriptor xmlns="urn:oasis:names:tc:SAML:2.0:metadata" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" Name="urn:keycloak">
+<EntityDescriptor entityID="https://sso.deltadatamandiri.com/auth/realms/ckan-sdi01">
+<IDPSSODescriptor WantAuthnRequestsSigned="true" protocolSupportEnumeration="urn:oasis:names:tc:SAML:2.0:protocol">
+<KeyDescriptor use="signing">
+<dsig:KeyInfo>
+<dsig:KeyName>bWy2Jo8mhUjaTtSJjQau3TaWEPklEQp1ZC3n8aYr9kc</dsig:KeyName>
+<dsig:X509Data>
+<dsig:X509Certificate>MIICozCCAYsCBgF9+4Ht2zANBgkqhkiG9w0BAQsFADAVMRMwEQYDVQQDDApja2FuLXNkaTAxMB4XDTIxMTIyNzEwNDcxNloXDTMxMTIyNzEwNDg1NlowFTETMBEGA1UEAwwKY2thbi1zZGkwMTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAJwmVG/Moc2I4HjtRRsHBm/xiJtUoPoS3oeyogr4keTo305+WdJN1VNt4hzeHKr4hb268IVIEUNXKLY6FXK7V3h05CtXksWbrw5tf0cAZ+JnPgBKiflNHc9EUc23LbFHrr9eeOewTUOhaFcfvDlNH1sCUdgBgxmiNTsfVj+m85rdgdKTVFMrffd/p7cJTQSMiqtVjfDGWBIT1cz5sA8qPrVvYhyv0eAkLw3Iyt2j6dvNMsDz6oH8Q2IpJjHEOnpi+t070PSTzQqW8J+GccywYWwb4b/ltFJI84RYzbMpEw58Pqn/t5DwbfcL+GzJJ4XpU8isQ1G7XYG/zi+e5bof1LUCAwEAATANBgkqhkiG9w0BAQsFAAOCAQEAIvjOqs7TX8RVKsK9+PbNhPPmXUoNr5p5JZzfLedPj57hRDZ7791fR+LstX4ugNlazj0IgbiPYW4GTxUnvsyxanAIJ9QzOqXbq1U8welmPVT9xWpjd7HBVeE2UVe4tIfkFY1kB7NGhd6/40ogR8VTCVwy4YhbxNyMVCEtRVTL07n4GZYZd9MwTS/mTFhCe+GtaaetPMZsn1DYlUhd3Pa/bcxRvi3lctncpKcBiLtwuOViu1g/J2QoTIzT9z5mup4PhXgPzVMWz+8nAbGzafV3JBjqIwkabpQPnG8s9xIvZguLh2q1fsNrrU2sAff2gbDteMFiN/7Ecg9Gq3Hjn74+ug==</dsig:X509Certificate>
+</dsig:X509Data>
+</dsig:KeyInfo>
+</KeyDescriptor>
+<SingleLogoutService Binding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-POST" Location="https://sso.deltadatamandiri.com/auth/realms/ckan-sdi01/protocol/saml"/>
+<SingleLogoutService Binding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-Redirect" Location="https://sso.deltadatamandiri.com/auth/realms/ckan-sdi01/protocol/saml"/>
+<NameIDFormat>urn:oasis:names:tc:SAML:2.0:nameid-format:persistent</NameIDFormat>
+<NameIDFormat>urn:oasis:names:tc:SAML:2.0:nameid-format:transient</NameIDFormat>
+<NameIDFormat>urn:oasis:names:tc:SAML:1.1:nameid-format:unspecified</NameIDFormat>
+<NameIDFormat>urn:oasis:names:tc:SAML:1.1:nameid-format:emailAddress</NameIDFormat>
+<SingleSignOnService Binding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-POST" Location="https://sso.deltadatamandiri.com/auth/realms/ckan-sdi01/protocol/saml"/>
+<SingleSignOnService Binding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-Redirect" Location="https://sso.deltadatamandiri.com/auth/realms/ckan-sdi01/protocol/saml"/>
+<SingleSignOnService Binding="urn:oasis:names:tc:SAML:2.0:bindings:SOAP" Location="https://sso.deltadatamandiri.com/auth/realms/ckan-sdi01/protocol/saml"/>
+</IDPSSODescriptor>
 </EntityDescriptor>
+</EntitiesDescriptor>
