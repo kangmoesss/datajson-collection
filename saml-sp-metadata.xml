@@ -8,11 +8,11 @@
             </dsig:X509Data>
           </dsig:KeyInfo>
         </KeyDescriptor>
-        <SingleLogoutService Binding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-POST" Location="https://katalog.data.go.id/*"/>
+        <SingleLogoutService Binding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-POST" Location="https://katalog.data.go.id/user/login"/>
         <NameIDFormat>urn:oasis:names:tc:SAML:1.1:nameid-format:unspecified
         </NameIDFormat>
         <AssertionConsumerService
-                Binding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-POST" Location="https://katalog.data.go.id/*"
+                Binding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-POST" Location="https://katalog.data.go.id/user/login"
                 index="1" isDefault="true" />
     </SPSSODescriptor>
 </EntityDescriptor>
