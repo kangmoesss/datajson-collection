@@ -1,18 +1,11 @@
-<EntityDescriptor xmlns="urn:oasis:names:tc:SAML:2.0:metadata" entityID="ckan">
-    <SPSSODescriptor AuthnRequestsSigned="true" WantAssertionsSigned="true"
+<EntityDescriptor xmlns="urn:oasis:names:tc:SAML:2.0:metadata" entityID="https://sso.deltadatamandiri.com/auth/realms/ckan-sdi01">
+    <SPSSODescriptor AuthnRequestsSigned="false" WantAssertionsSigned="false"
             protocolSupportEnumeration="urn:oasis:names:tc:SAML:2.0:protocol urn:oasis:names:tc:SAML:1.1:protocol http://schemas.xmlsoap.org/ws/2003/07/secext">
-        <KeyDescriptor use="signing">
-          <dsig:KeyInfo xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">
-            <dsig:X509Data>
-              <dsig:X509Certificate>MIIClzCCAX8CBgF+FAgu8TANBgkqhkiG9w0BAQsFADAPMQ0wCwYDVQQDDARja2FuMB4XDTIyMDEwMTA1MDQ0N1oXDTMyMDEwMTA1MDYyN1owDzENMAsGA1UEAwwEY2thbjCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAMQty/9GbeTqssItGdUmMhlYxXOZ5OdliFxG0cNp+ZJDUMH1Vc7Thn3Pj1OLjaIUmF9QCGeLNxxIwoOXt+WHb+q02gyPRxaieDsWJ5nt/CFOItYJ/bISRm5fXDTJ87oHyjEdUl03Y/5roE+bqG4oBaEd/kyrrcbAF4ENrWBI2/dNkh6iqpklpfDm4OhDtTx8pqv3Q4qGFgiFyQOkXSLegmzOd0CBn9kymgVm2u37u7rve8vkQ7Ym4K5JPpCio6YzKZGIUR1WWvSFyhfEZSFQCA5wokQtCzA+p/aGFvBqFNtE1s6UyM5Fj8X6BKksAOm7FSJl0mu1bWGwXdwp7xKrb30CAwEAATANBgkqhkiG9w0BAQsFAAOCAQEAkFDE0a7BOOHJWTA0fDJl9VjJF/rRhiu8YoUxXfb5MkC/2rNOjqr3I3zlskZhrMMeWOdmPBv9X3vjeZN2eWz9pmZeShYAr+kkroqu7qkqq+gmv0bLQFcmon9/Ps2ydpye3M2GJdWgwZg50/aibgNwgxiSHl+Z5Coai2VHYPzfDhgE93Pjribj4+H3SbdUVvKWZMug/xrPoT6xP5uGxpxBq0ot57/p/qr7rD82HxmWq+qAPCZGZunJSU7ZK1n2QwIaDgfnauHwjYZ/RyFM8oIEwYAMpBLiPt+StiFqWzIruFuS5+esXPJBIL5mX5BUcC9mAtdEGNLrA5nrEKKtd22NxQ==</dsig:X509Certificate>
-            </dsig:X509Data>
-          </dsig:KeyInfo>
-        </KeyDescriptor>
-        <SingleLogoutService Binding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-POST" Location="https://katalog.data.go.id/user/logout"/>
-        <NameIDFormat>urn:oasis:names:tc:SAML:1.1:nameid-format:unspecified
+        <SingleLogoutService Binding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-POST" Location="https://sso.deltadatamandiri.com/auth/realms/ckan-sdi01/broker/saml/endpoint"/>
+        <NameIDFormat>urn:oasis:names:tc:SAML:2.0:nameid-format:persistent
         </NameIDFormat>
         <AssertionConsumerService
-                Binding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-POST" Location="https://katalog.data.go.id/user/saml2login"
+                Binding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-POST" Location="https://sso.deltadatamandiri.com/auth/realms/ckan-sdi01/broker/saml/endpoint"
                 index="1" isDefault="true" />
     </SPSSODescriptor>
 </EntityDescriptor>
