@@ -1,0 +1,45 @@
+{
+    "@context": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld",
+    "@id": "https://satudata.pertanian.go.id/data.json",
+    "@type": "dcat:Catalog",
+    "conformsTo": "https://project-open-data.cio.gov/v1.1/schema",
+    "describedBy": "https://project-open-data.cio.gov/v1.1/schema/catalog.json",
+    "dataset": [
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://api.pertanian.go.id/api/satudata/hortikultura/luas?api-key=[API_KEY]&tahun=[TAHUN]&idkomoditas=[ID_KOMODITAS]",
+                    "mediaType": "application/json",
+                    "format": "json",
+                    "title": "data-keluaran-luas-panen-hortikultura-per-komoditas"
+                }
+            ],
+            "identifier": "1",
+            "issued": "2021-09-26",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2021-09-26",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal"
+            },
+            "title": "Luas Panen Hortikultura",
+            "description": "Luas panen adalah luas panen yang dipanen habis (Januari-Desember) ditambah luas panen yang belum habis (Desember).",
+            "keyword": [
+                "luas panen",
+                "hortikultura",
+                "sayuran",
+                "buah buahan",
+                "tanaman hias",
+                "tanaman obat"
+            ]
+        }
+    ]
+}
