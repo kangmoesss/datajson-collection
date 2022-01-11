@@ -1,0 +1,3334 @@
+{
+    "@context": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld",
+    "@id": "https://satudata.pertanian.go.id/data.json",
+    "@type": "dcat:Catalog",
+    "conformsTo": "https://project-open-data.cio.gov/v1.1/schema",
+    "describedBy": "https://project-open-data.cio.gov/v1.1/schema/catalog.json",
+    "dataset": [{
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/hortikultura/luas?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2019&idkomoditas=01003",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Luas Panen Hortikultura Bawang Merah 2019"
+            }],
+            "identifier": "1",
+            "issued": "2021-09-26",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2021-09-26",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Hortikultura, Kementerian Pertanian"
+            },
+            "title": "Luas Panen Hortikultura Bawang Merah 2019",
+            "description": "Luas Panen adalah jumlah luas yang diambil produksinya",
+            "keyword": ["Luas panen", "hortikultura", "sayuran"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/hortikultura/luas?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2019&idkomoditas=01006",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Luas Panen Hortikultura Bawang Putih 2019"
+            }],
+            "identifier": "2",
+            "issued": "2021-09-26",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2021-09-26",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Hortikultura, Kementerian Pertanian"
+            },
+            "title": "Luas Panen Hortikultura Bawang Putih 2019",
+            "description": "Luas Panen adalah jumlah luas yang diambil produksinya",
+            "keyword": ["Luas panen", "hortikultura", "sayuran"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/hortikultura/luas?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2019&idkomoditas=01133",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Luas Panen Hortikultura Cabe Besar 2019"
+            }],
+            "identifier": "3",
+            "issued": "2021-09-26",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2021-09-26",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Hortikultura, Kementerian Pertanian"
+            },
+            "title": "Luas Panen Hortikultura Cabe Besar 2019",
+            "description": "Luas Panen adalah jumlah luas yang diambil produksinya",
+            "keyword": ["Luas panen", "hortikultura", "sayuran"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/hortikultura/luas?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2019&idkomoditas=01132",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Luas Panen Hortikultura Cabe Rawit 2019"
+            }],
+            "identifier": "4",
+            "issued": "2021-09-26",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2021-09-26",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Hortikultura, Kementerian Pertanian"
+            },
+            "title": "Luas Panen Hortikultura Cabe Rawit 2019",
+            "description": "Luas Panen adalah jumlah luas yang diambil produksinya",
+            "keyword": ["Luas panen", "hortikultura", "sayuran"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/hortikultura/luas?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2019&idkomoditas=01162",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Luas Panen Hortikultura Jeruk Siam 2019"
+            }],
+            "identifier": "5",
+            "issued": "2021-09-26",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2021-09-26",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Hortikultura, Kementerian Pertanian"
+            },
+            "title": "Luas Panen Hortikultura Jeruk Siam 2019",
+            "description": "Luas Panen adalah jumlah luas yang diambil produksinya",
+            "keyword": ["Luas panen", "hortikultura", "buah"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/hortikultura/luas?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2019&idkomoditas=01131",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Luas Panen Hortikultura Jeruk Besar 2019"
+            }],
+            "identifier": "6",
+            "issued": "2021-09-26",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2021-09-26",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Hortikultura, Kementerian Pertanian"
+            },
+            "title": "Luas Panen Hortikultura Jeruk Besar 2019",
+            "description": "Luas Panen adalah jumlah luas yang diambil produksinya",
+            "keyword": ["Luas panen", "hortikultura", "buah"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/hortikultura/luas?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2019&idkomoditas=01054",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Luas Panen Hortikultura Mangga 2019"
+            }],
+            "identifier": "7",
+            "issued": "2021-09-26",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2021-09-26",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Hortikultura, Kementerian Pertanian"
+            },
+            "title": "Luas Panen Hortikultura Mangga 2019",
+            "description": "Luas Panen adalah jumlah luas yang diambil produksinya",
+            "keyword": ["Luas panen", "hortikultura", "buah"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/hortikultura/luas?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2019&idkomoditas=01055",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Luas Panen Hortikultura Manggis 2019"
+            }],
+            "identifier": "8",
+            "issued": "2021-09-26",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2021-09-26",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Hortikultura, Kementerian Pertanian"
+            },
+            "title": "Luas Panen Hortikultura Manggis 2019",
+            "description": "Luas Panen adalah jumlah luas yang diambil produksinya",
+            "keyword": ["Luas panen", "hortikultura", "buah"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/hortikultura/luas?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2019&idkomoditas=01064",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Luas Panen Hortikultura Pisang 2019"
+            }],
+            "identifier": "9",
+            "issued": "2021-09-26",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2021-09-26",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Hortikultura, Kementerian Pertanian"
+            },
+            "title": "Luas Panen Hortikultura Pisang 2019",
+            "description": "Luas Panen adalah jumlah luas yang diambil produksinya",
+            "keyword": ["Luas panen", "hortikultura", "buah"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/hortikultura/luas?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2019&idkomoditas=01136",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Luas Panen Hortikultura Anggrek 2019"
+            }],
+            "identifier": "10",
+            "issued": "2021-09-26",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2021-09-26",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Hortikultura, Kementerian Pertanian"
+            },
+            "title": "Luas Panen Hortikultura Anggrek 2019",
+            "description": "Luas Panen adalah jumlah luas yang diambil produksinya",
+            "keyword": ["Luas panen", "hortikultura", "tanaman hias"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/hortikultura/luas?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2019&idkomoditas=01140",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Luas Panen Hortikultura Krisan 2019"
+            }],
+            "identifier": "11",
+            "issued": "2021-09-26",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2021-09-26",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Hortikultura, Kementerian Pertanian"
+            },
+            "title": "Luas Panen Hortikultura Krisan 2019",
+            "description": "Luas Panen adalah jumlah luas yang diambil produksinya",
+            "keyword": ["Luas panen", "hortikultura", "tanaman hias"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/hortikultura/luas?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2019&idkomoditas=01163",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Luas Panen Hortikultura Jahe 2019"
+            }],
+            "identifier": "12",
+            "issued": "2021-09-26",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2021-09-26",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Hortikultura, Kementerian Pertanian"
+            },
+            "title": "Luas Panen Hortikultura Jahe 2019",
+            "description": "Luas Panen adalah jumlah luas yang diambil produksinya",
+            "keyword": ["Luas panen", "hortikultura", "tanaman obat"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/hortikultura/luas?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2019&idkomoditas=01147",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Luas Panen Hortikultura Kunyit 2019"
+            }],
+            "identifier": "13",
+            "issued": "2021-09-26",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2021-09-26",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Hortikultura, Kementerian Pertanian"
+            },
+            "title": "Luas Panen Hortikultura Kunyit 2019",
+            "description": "Luas Panen adalah jumlah luas yang diambil produksinya",
+            "keyword": ["Luas panen", "hortikultura", "tanaman obat"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/hortikultura/produksi?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2019&idkomoditas=01003",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Produksi Hortikultura Bawang Merah 2019"
+            }],
+            "identifier": "14",
+            "issued": "2021-09-26",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2021-09-26",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Hortikultura, Kementerian Pertanian"
+            },
+            "title": "Produksi Hortikultura Bawang Merah 2019",
+            "description": "Produksi adalah jumlah produksi yang diambil",
+            "keyword": ["Produksi", "hortikultura", "sayuran"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/hortikultura/produksi?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2019&idkomoditas=01006",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Produksi Hortikultura Bawang Putih 2019"
+            }],
+            "identifier": "15",
+            "issued": "2021-09-26",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2021-09-26",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Hortikultura, Kementerian Pertanian"
+            },
+            "title": "Produksi Hortikultura Bawang Putih 2019",
+            "description": "Produksi adalah jumlah produksi yang diambil",
+            "keyword": ["Produksi", "hortikultura", "sayuran"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/hortikultura/produksi?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2019&idkomoditas=01133",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Produksi Hortikultura Cabe Besar 2019"
+            }],
+            "identifier": "16",
+            "issued": "2021-09-26",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2021-09-26",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Hortikultura, Kementerian Pertanian"
+            },
+            "title": "Produksi Hortikultura Cabe Besar 2019",
+            "description": "Produksi adalah jumlah produksi yang diambil",
+            "keyword": ["Produksi", "hortikultura", "sayuran"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/hortikultura/produksi?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2019&idkomoditas=01132",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Produksi Hortikultura Cabe Rawit 2019"
+            }],
+            "identifier": "17",
+            "issued": "2021-09-26",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2021-09-26",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Hortikultura, Kementerian Pertanian"
+            },
+            "title": "Produksi Hortikultura Cabe Rawit 2019",
+            "description": "Produksi adalah jumlah produksi yang diambil",
+            "keyword": ["Produksi", "hortikultura", "sayuran"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/hortikultura/produksi?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2019&idkomoditas=01162",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Produksi Hortikultura Jeruk Siam 2019"
+            }],
+            "identifier": "18",
+            "issued": "2021-09-26",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2021-09-26",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Hortikultura, Kementerian Pertanian"
+            },
+            "title": "Produksi Hortikultura Jeruk Siam 2019",
+            "description": "Produksi adalah jumlah produksi yang diambil",
+            "keyword": ["Produksi", "hortikultura", "buah"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/hortikultura/produksi?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2019&idkomoditas=01131",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Produksi Hortikultura Jeruk Besar 2019"
+            }],
+            "identifier": "19",
+            "issued": "2021-09-26",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2021-09-26",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Hortikultura, Kementerian Pertanian"
+            },
+            "title": "Produksi Hortikultura Jeruk Besar 2019",
+            "description": "Produksi adalah jumlah produksi yang diambil",
+            "keyword": ["Produksi", "hortikultura", "buah"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/hortikultura/produksi?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2019&idkomoditas=01054",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Produksi Hortikultura Mangga 2019"
+            }],
+            "identifier": "20",
+            "issued": "2021-09-26",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2021-09-26",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Hortikultura, Kementerian Pertanian"
+            },
+            "title": "Produksi Hortikultura Mangga 2019",
+            "description": "Produksi adalah jumlah produksi yang diambil",
+            "keyword": ["Produksi", "hortikultura", "buah"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/hortikultura/produksi?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2019&idkomoditas=01055",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Produksi Hortikultura Manggis 2019"
+            }],
+            "identifier": "21",
+            "issued": "2021-09-26",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2021-09-26",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Hortikultura, Kementerian Pertanian"
+            },
+            "title": "Produksi Hortikultura Manggis 2019",
+            "description": "Produksi adalah jumlah produksi yang diambil",
+            "keyword": ["Produksi", "hortikultura", "buah"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/hortikultura/produksi?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2019&idkomoditas=01064",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Produksi Hortikultura Pisang 2019"
+            }],
+            "identifier": "22",
+            "issued": "2021-09-26",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2021-09-26",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Hortikultura, Kementerian Pertanian"
+            },
+            "title": "Produksi Hortikultura Pisang 2019",
+            "description": "Produksi adalah jumlah produksi yang diambil",
+            "keyword": ["Produksi", "hortikultura", "buah"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/hortikultura/produksi?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2019&idkomoditas=01136",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Produksi Hortikultura Anggrek 2019"
+            }],
+            "identifier": "23",
+            "issued": "2021-09-26",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2021-09-26",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Hortikultura, Kementerian Pertanian"
+            },
+            "title": "Produksi Hortikultura Anggrek 2019",
+            "description": "Produksi adalah jumlah produksi yang diambil",
+            "keyword": ["Produksi", "hortikultura", "tanaman hias"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/hortikultura/produksi?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2019&idkomoditas=01140",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Produksi Hortikultura Krisan 2019"
+            }],
+            "identifier": "24",
+            "issued": "2021-09-26",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2021-09-26",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Hortikultura, Kementerian Pertanian"
+            },
+            "title": "Produksi Hortikultura Krisan 2019",
+            "description": "Produksi adalah jumlah produksi yang diambil",
+            "keyword": ["Produksi", "hortikultura", "tanaman hias"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/hortikultura/produksi?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2019&idkomoditas=01163",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Produksi Hortikultura Jahe 2019"
+            }],
+            "identifier": "25",
+            "issued": "2021-09-26",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2021-09-26",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Hortikultura, Kementerian Pertanian"
+            },
+            "title": "Produksi Hortikultura Jahe 2019",
+            "description": "Produksi adalah jumlah produksi yang diambil",
+            "keyword": ["Produksi", "hortikultura", "tanaman obat"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/hortikultura/produksi?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2019&idkomoditas=01147",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Produksi Hortikultura Kunyit 2019"
+            }],
+            "identifier": "26",
+            "issued": "2021-09-26",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2021-09-26",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Hortikultura, Kementerian Pertanian"
+            },
+            "title": "Produksi Hortikultura Kunyit 2019",
+            "description": "Produksi adalah jumlah produksi yang diambil",
+            "keyword": ["Produksi", "hortikultura", "tanaman obat"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/perkebunan/luas?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2019&idkomoditas=02033",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Luas Areal Kopi Robusta 2019"
+            }],
+            "identifier": "27",
+            "issued": "2020-12-31",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2020-12-31",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Perkebunan, Kementerian Pertanian"
+            },
+            "title": "Luas Areal Kopi Robusta 2019",
+            "description": "Luas Tanaman Kopi Robusta yang dilaporkan selama tahun 2019 baik untuk tanaman yang belum memberikan hasil karena masih muda, belum pernah berbunga atau belum cukup umur untuk berproduksi, untuk tanaman yang sedang menghasilkan dan/atau sudah pernah menghasilkan, serta untuk tanaman yang sudah tua, rusak dan tidak memberikan hasil yang memadai lagi (produksi kurang dari 15% dari produksi normal).",
+            "keyword": ["Kopi Robusta", "Luas Areal Kopi Robusta", "Luasan Kopi Robusta", "Luas Kopi Robusta"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/perkebunan/luas?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2019&idkomoditas=02058",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Luas Areal Kopi Arabika 2019"
+            }],
+            "identifier": "28",
+            "issued": "2020-12-31",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2020-12-31",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Perkebunan, Kementerian Pertanian"
+            },
+            "title": "Luas Areal Kopi Arabika 2019",
+            "description": "Luas Tanaman Kopi Arabika yang dilaporkan selama tahun 2019 baik untuk tanaman yang belum memberikan hasil karena masih muda, belum pernah berbunga atau belum cukup umur untuk berproduksi, untuk tanaman yang sedang menghasilkan dan/atau sudah pernah menghasilkan, serta untuk tanaman yang sudah tua, rusak dan tidak memberikan hasil yang memadai lagi (produksi kurang dari 15% dari produksi normal).",
+            "keyword": ["Kopi Arabika", "Luas Areal Kopi Arabika", "Luasan Kopi Arabika", "Luas Kopi Arabika"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/perkebunan/luas?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2019&idkomoditas=02012",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Luas Areal Kakao 2019"
+            }],
+            "identifier": "29",
+            "issued": "2020-12-31",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2020-12-31",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Perkebunan, Kementerian Pertanian"
+            },
+            "title": "Luas Areal Kakao 2019",
+            "description": "Luas Tanaman Kakao yang dilaporkan selama tahun 2019 baik untuk tanaman yang belum memberikan hasil karena masih muda, belum pernah berbunga atau belum cukup umur untuk berproduksi, untuk tanaman yang sedang menghasilkan dan/atau sudah pernah menghasilkan, serta untuk tanaman yang sudah tua, rusak dan tidak memberikan hasil yang memadai lagi (produksi kurang dari 15% dari produksi normal).",
+            "keyword": ["Kakao", "Luas Areal Kakao", "Luasan Kakao", "Luas Kakao"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/perkebunan/luas?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2019&idkomoditas=02060",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Luas Areal Kelapa Hibrida 2019"
+            }],
+            "identifier": "30",
+            "issued": "2020-12-31",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2020-12-31",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Perkebunan, Kementerian Pertanian"
+            },
+            "title": "Luas Areal Kelapa Hibrida 2019",
+            "description": "Luas Tanaman Kelapa Hibrida yang dilaporkan selama tahun 2019 baik untuk tanaman yang belum memberikan hasil karena masih muda, belum pernah berbunga atau belum cukup umur untuk berproduksi, untuk tanaman yang sedang menghasilkan dan/atau sudah pernah menghasilkan, serta untuk tanaman yang sudah tua, rusak dan tidak memberikan hasil yang memadai lagi (produksi kurang dari 15% dari produksi normal).",
+            "keyword": ["Kelapa Hibrida", "Luas Areal Kelapa Hibrida", "Luasan Kelapa Hibrida", "Luas Kelapa Hibrida"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/perkebunan/luas?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2019&idkomoditas=02059",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Luas Areal Kelapa Dalam 2019"
+            }],
+            "identifier": "31",
+            "issued": "2020-12-31",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2020-12-31",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Perkebunan, Kementerian Pertanian"
+            },
+            "title": "Luas Areal Kelapa Dalam 2019",
+            "description": "Luas Tanaman Kelapa Dalam yang dilaporkan selama tahun 2019 baik untuk tanaman yang belum memberikan hasil karena masih muda, belum pernah berbunga atau belum cukup umur untuk berproduksi, untuk tanaman yang sedang menghasilkan dan/atau sudah pernah menghasilkan, serta untuk tanaman yang sudah tua, rusak dan tidak memberikan hasil yang memadai lagi (produksi kurang dari 15% dari produksi normal).",
+            "keyword": ["Kelapa Dalam", "Luas Areal Kelapa Dalam", "Luasan Kelapa Dalam", "Luas Kelapa Dalam"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/perkebunan/luas?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2019&idkomoditas=02009",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Luas Areal Jambu Mete 2019"
+            }],
+            "identifier": "32",
+            "issued": "2020-12-31",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2020-12-31",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Perkebunan, Kementerian Pertanian"
+            },
+            "title": "Luas Areal Jambu Mete 2019",
+            "description": "Luas Tanaman Jambu Mete yang dilaporkan selama tahun 2019 baik untuk tanaman yang belum memberikan hasil karena masih muda, belum pernah berbunga atau belum cukup umur untuk berproduksi, untuk tanaman yang sedang menghasilkan dan/atau sudah pernah menghasilkan, serta untuk tanaman yang sudah tua, rusak dan tidak memberikan hasil yang memadai lagi (produksi kurang dari 15% dari produksi normal).",
+            "keyword": ["Jambu Mete", "Luas Areal Jambu Mete", "Luasan Jambu Mete", "Luas Jambu Mete"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/perkebunan/luas?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2019&idkomoditas=02035",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Luas Areal Lada 2019"
+            }],
+            "identifier": "33",
+            "issued": "2020-12-31",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2020-12-31",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Perkebunan, Kementerian Pertanian"
+            },
+            "title": "Luas Areal Lada 2019",
+            "description": "Luas Tanaman Lada yang dilaporkan selama tahun 2019 baik untuk tanaman yang belum memberikan hasil karena masih muda, belum pernah berbunga atau belum cukup umur untuk berproduksi, untuk tanaman yang sedang menghasilkan dan/atau sudah pernah menghasilkan, serta untuk tanaman yang sudah tua, rusak dan tidak memberikan hasil yang memadai lagi (produksi kurang dari 15% dari produksi normal).",
+            "keyword": ["Lada", "Luas Areal Lada", "Luasan Lada", "Luas Lada"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/perkebunan/luas?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2019&idkomoditas=02042",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Luas Areal Pala 2019"
+            }],
+            "identifier": "34",
+            "issued": "2020-12-31",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2020-12-31",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Perkebunan, Kementerian Pertanian"
+            },
+            "title": "Luas Areal Pala 2019",
+            "description": "Luas Tanaman Pala yang dilaporkan selama tahun 2019 baik untuk tanaman yang belum memberikan hasil karena masih muda, belum pernah berbunga atau belum cukup umur untuk berproduksi, untuk tanaman yang sedang menghasilkan dan/atau sudah pernah menghasilkan, serta untuk tanaman yang sudah tua, rusak dan tidak memberikan hasil yang memadai lagi (produksi kurang dari 15% dari produksi normal).",
+            "keyword": ["Pala", "Luas Areal Pala", "Luasan Pala", "Luas Pala"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/perkebunan/luas?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2019&idkomoditas=02046",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Luas Areal Vanili 2019"
+            }],
+            "identifier": "35",
+            "issued": "2020-12-31",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2020-12-31",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Perkebunan, Kementerian Pertanian"
+            },
+            "title": "Luas Areal Vanili 2019",
+            "description": "Luas Tanaman Vanili yang dilaporkan selama tahun 2019 baik untuk tanaman yang belum memberikan hasil karena masih muda, belum pernah berbunga atau belum cukup umur untuk berproduksi, untuk tanaman yang sedang menghasilkan dan/atau sudah pernah menghasilkan, serta untuk tanaman yang sudah tua, rusak dan tidak memberikan hasil yang memadai lagi (produksi kurang dari 15% dari produksi normal).",
+            "keyword": ["Vanili", "Luas Areal Vanili", "Luasan Vanili", "Luas Vanili"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/perkebunan/luas?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2019&idkomoditas=02027",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Luas Areal Kelapa Sawit 2019"
+            }],
+            "identifier": "36",
+            "issued": "2020-12-31",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2020-12-31",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Perkebunan, Kementerian Pertanian"
+            },
+            "title": "Luas Areal Kelapa Sawit 2019",
+            "description": "Luas Tanaman Kelapa Sawit yang dilaporkan selama tahun 2019 baik untuk tanaman yang belum memberikan hasil karena masih muda, belum pernah berbunga atau belum cukup umur untuk berproduksi, untuk tanaman yang sedang menghasilkan dan/atau sudah pernah menghasilkan, serta untuk tanaman yang sudah tua, rusak dan tidak memberikan hasil yang memadai lagi (produksi kurang dari 15% dari produksi normal).",
+            "keyword": ["Kelapa Sawit", "Luas Areal Kelapa Sawit", "Luasan Kelapa Sawit", "Luas Kelapa Sawit"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/perkebunan/luas?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2019&idkomoditas=02017",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Luas Areal Karet 2019"
+            }],
+            "identifier": "37",
+            "issued": "2020-12-31",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2020-12-31",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Perkebunan, Kementerian Pertanian"
+            },
+            "title": "Luas Areal Karet 2019",
+            "description": "Luas Tanaman Karet yang dilaporkan selama tahun 2019 baik untuk tanaman yang belum memberikan hasil karena masih muda, belum pernah berbunga atau belum cukup umur untuk berproduksi, untuk tanaman yang sedang menghasilkan dan/atau sudah pernah menghasilkan, serta untuk tanaman yang sudah tua, rusak dan tidak memberikan hasil yang memadai lagi (produksi kurang dari 15% dari produksi normal).",
+            "keyword": ["Karet", "Luas Areal Karet", "Luasan Karet", "Luas Karet"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/perkebunan/luas?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2019&idkomoditas=02053",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Luas Areal Teh 2019"
+            }],
+            "identifier": "38",
+            "issued": "2020-12-31",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2020-12-31",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Perkebunan, Kementerian Pertanian"
+            },
+            "title": "Luas Areal Teh 2019",
+            "description": "Luas Tanaman Teh yang dilaporkan selama tahun 2019 baik untuk tanaman yang belum memberikan hasil karena masih muda, belum pernah berbunga atau belum cukup umur untuk berproduksi, untuk tanaman yang sedang menghasilkan dan/atau sudah pernah menghasilkan, serta untuk tanaman yang sudah tua, rusak dan tidak memberikan hasil yang memadai lagi (produksi kurang dari 15% dari produksi normal).",
+            "keyword": ["Teh", "Luas Areal Teh", "Luasan Teh", "Luas Teh"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/perkebunan/luas?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2019&idkomoditas=02004",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Luas Areal Cengkeh 2019"
+            }],
+            "identifier": "39",
+            "issued": "2020-12-31",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2020-12-31",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Perkebunan, Kementerian Pertanian"
+            },
+            "title": "Luas Areal Cengkeh 2019",
+            "description": "Luas Tanaman Cengkeh yang dilaporkan selama tahun 2019 baik untuk tanaman yang belum memberikan hasil karena masih muda, belum pernah berbunga atau belum cukup umur untuk berproduksi, untuk tanaman yang sedang menghasilkan dan/atau sudah pernah menghasilkan, serta untuk tanaman yang sudah tua, rusak dan tidak memberikan hasil yang memadai lagi (produksi kurang dari 15% dari produksi normal).",
+            "keyword": ["Cengkeh", "Luas Areal Cengkeh", "Luasan Cengkeh", "Luas Cengkeh"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/perkebunan/luas?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2019&idkomoditas=02022",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Luas Areal Kayu manis 2019"
+            }],
+            "identifier": "40",
+            "issued": "2020-12-31",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2020-12-31",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Perkebunan, Kementerian Pertanian"
+            },
+            "title": "Luas Areal Kayu manis 2019",
+            "description": "Luas Tanaman Kayu manis yang dilaporkan selama tahun 2019 baik untuk tanaman yang belum memberikan hasil karena masih muda, belum pernah berbunga atau belum cukup umur untuk berproduksi, untuk tanaman yang sedang menghasilkan dan/atau sudah pernah menghasilkan, serta untuk tanaman yang sudah tua, rusak dan tidak memberikan hasil yang memadai lagi (produksi kurang dari 15% dari produksi normal).",
+            "keyword": ["Kayu manis", "Luas Areal Kayu manis", "Luasan Kayu manis", "Luas Kayu manis"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/perkebunan/luas?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2019&idkomoditas=02041",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Luas Areal Nilam 2019"
+            }],
+            "identifier": "41",
+            "issued": "2020-12-31",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2020-12-31",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Perkebunan, Kementerian Pertanian"
+            },
+            "title": "Luas Areal Nilam 2019",
+            "description": "Luas Tanaman Nilam yang dilaporkan selama tahun 2019 baik untuk tanaman yang belum memberikan hasil karena masih muda, belum pernah berbunga atau belum cukup umur untuk berproduksi, untuk tanaman yang sedang menghasilkan dan/atau sudah pernah menghasilkan, serta untuk tanaman yang sudah tua, rusak dan tidak memberikan hasil yang memadai lagi (produksi kurang dari 15% dari produksi normal).",
+            "keyword": ["Nilam", "Luas Areal Nilam", "Luasan Nilam", "Luas Nilam"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/perkebunan/luas?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2019&idkomoditas=02072",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Luas Areal Sagu 2019"
+            }],
+            "identifier": "42",
+            "issued": "2020-12-31",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2020-12-31",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Perkebunan, Kementerian Pertanian"
+            },
+            "title": "Luas Areal Sagu 2019",
+            "description": "Luas Tanaman Sagu yang dilaporkan selama tahun 2019 baik untuk tanaman yang belum memberikan hasil karena masih muda, belum pernah berbunga atau belum cukup umur untuk berproduksi, untuk tanaman yang sedang menghasilkan dan/atau sudah pernah menghasilkan, serta untuk tanaman yang sudah tua, rusak dan tidak memberikan hasil yang memadai lagi (produksi kurang dari 15% dari produksi normal).",
+            "keyword": ["Sagu", "Luas Areal Sagu", "Luasan Sagu", "Luas Sagu"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/perkebunan/luas?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2019&idkomoditas=02051",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Luas Areal Tebu 2019"
+            }],
+            "identifier": "43",
+            "issued": "2020-12-31",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2020-12-31",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Perkebunan, Kementerian Pertanian"
+            },
+            "title": "Luas Areal Tebu 2019",
+            "description": "Luas Tanaman Tebu yang dilaporkan selama tahun 2019 baik untuk tanaman yang belum memberikan hasil karena masih muda, belum pernah berbunga atau belum cukup umur untuk berproduksi, untuk tanaman yang sedang menghasilkan dan/atau sudah pernah menghasilkan, serta untuk tanaman yang sudah tua, rusak dan tidak memberikan hasil yang memadai lagi (produksi kurang dari 15% dari produksi normal).",
+            "keyword": ["Tebu", "Luas Areal Tebu", "Luasan Tebu", "Luas Tebu"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/perkebunan/luas?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2019&idkomoditas=02055",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Luas Areal Tembakau 2019"
+            }],
+            "identifier": "44",
+            "issued": "2020-12-31",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2020-12-31",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Perkebunan, Kementerian Pertanian"
+            },
+            "title": "Luas Areal Tembakau 2019",
+            "description": "Luas Tanaman Tembakau yang dilaporkan selama tahun 2019 baik untuk tanaman yang belum memberikan hasil karena masih muda, belum pernah berbunga atau belum cukup umur untuk berproduksi, untuk tanaman yang sedang menghasilkan dan/atau sudah pernah menghasilkan, serta untuk tanaman yang sudah tua, rusak dan tidak memberikan hasil yang memadai lagi (produksi kurang dari 15% dari produksi normal).",
+            "keyword": ["Tembakau", "Luas Areal Tembakau", "Luasan Tembakau", "Luas Tembakau"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/perkebunan/luas?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2019&idkomoditas=02014",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Luas Areal Kapas 2019"
+            }],
+            "identifier": "45",
+            "issued": "2020-12-31",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2020-12-31",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Perkebunan, Kementerian Pertanian"
+            },
+            "title": "Luas Areal Kapas 2019",
+            "description": "Luas Tanaman Kapas yang dilaporkan selama tahun 2019 baik untuk tanaman yang belum memberikan hasil karena masih muda, belum pernah berbunga atau belum cukup umur untuk berproduksi, untuk tanaman yang sedang menghasilkan dan/atau sudah pernah menghasilkan, serta untuk tanaman yang sudah tua, rusak dan tidak memberikan hasil yang memadai lagi (produksi kurang dari 15% dari produksi normal).",
+            "keyword": ["Kapas", "Luas Areal Kapas", "Luasan Kapas", "Luas Kapas"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/perkebunan/luas?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2019&idkomoditas=02070",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Luas Areal Kemiri Sunan 2019"
+            }],
+            "identifier": "46",
+            "issued": "2020-12-31",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2020-12-31",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Perkebunan, Kementerian Pertanian"
+            },
+            "title": "Luas Areal Kemiri Sunan 2019",
+            "description": "Luas Tanaman Kemiri Sunan yang dilaporkan selama tahun 2019 baik untuk tanaman yang belum memberikan hasil karena masih muda, belum pernah berbunga atau belum cukup umur untuk berproduksi, untuk tanaman yang sedang menghasilkan dan/atau sudah pernah menghasilkan, serta untuk tanaman yang sudah tua, rusak dan tidak memberikan hasil yang memadai lagi (produksi kurang dari 15% dari produksi normal).",
+            "keyword": ["Kemiri Sunan", "Luas Areal Kemiri Sunan", "Luasan Kemiri Sunan", "Luas Kemiri Sunan"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/perkebunan/produksi?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2019&idkomoditas=02033",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Produksi Kopi Robusta 2019"
+            }],
+            "identifier": "47",
+            "issued": "2020-12-31",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2020-12-31",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Perkebunan, Kementerian Pertanian"
+            },
+            "title": "Produksi Kopi Robusta 2019",
+            "description": "Banyaknya hasil (produksi) dari setiap tanaman Kopi Robusta menurut bentuk produksi yang diambil berdasarkan luas yang dipanen dan dilaporkan pada tahun 2019",
+            "keyword": ["Kopi Robusta", "Produksi Kopi Robusta", "Hasil Panen Kopi Robusta"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/perkebunan/produksi?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2019&idkomoditas=02058",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Produksi Kopi Arabika 2019"
+            }],
+            "identifier": "48",
+            "issued": "2020-12-31",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2020-12-31",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Perkebunan, Kementerian Pertanian"
+            },
+            "title": "Produksi Kopi Arabika 2019",
+            "description": "Banyaknya hasil (produksi) dari setiap tanaman Kopi Arabika menurut bentuk produksi yang diambil berdasarkan luas yang dipanen dan dilaporkan pada tahun 2019",
+            "keyword": ["Kopi Arabika", "Produksi Kopi Arabika", "Hasil Panen Kopi Arabika"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/perkebunan/produksi?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2019&idkomoditas=02012",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Produksi Kakao 2019"
+            }],
+            "identifier": "49",
+            "issued": "2020-12-31",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2020-12-31",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Perkebunan, Kementerian Pertanian"
+            },
+            "title": "Produksi Kakao 2019",
+            "description": "Banyaknya hasil (produksi) dari setiap tanaman Kakao menurut bentuk produksi yang diambil berdasarkan luas yang dipanen dan dilaporkan pada tahun 2019",
+            "keyword": ["Kakao", "Produksi Kakao", "Hasil Panen Kakao"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/perkebunan/produksi?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2019&idkomoditas=02060",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Produksi Kelapa Hibrida 2019"
+            }],
+            "identifier": "50",
+            "issued": "2020-12-31",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2020-12-31",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Perkebunan, Kementerian Pertanian"
+            },
+            "title": "Produksi Kelapa Hibrida 2019",
+            "description": "Banyaknya hasil (produksi) dari setiap tanaman Kelapa Hibrida menurut bentuk produksi yang diambil berdasarkan luas yang dipanen dan dilaporkan pada tahun 2019",
+            "keyword": ["Kelapa Hibrida", "Produksi Kelapa Hibrida", "Hasil Panen Kelapa Hibrida"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/perkebunan/produksi?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2019&idkomoditas=02059",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Produksi Kelapa Dalam 2019"
+            }],
+            "identifier": "51",
+            "issued": "2020-12-31",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2020-12-31",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Perkebunan, Kementerian Pertanian"
+            },
+            "title": "Produksi Kelapa Dalam 2019",
+            "description": "Banyaknya hasil (produksi) dari setiap tanaman Kelapa Dalam menurut bentuk produksi yang diambil berdasarkan luas yang dipanen dan dilaporkan pada tahun 2019",
+            "keyword": ["Kelapa Dalam", "Produksi Kelapa Dalam", "Hasil Panen Kelapa Dalam"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/perkebunan/produksi?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2019&idkomoditas=02009",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Produksi Jambu Mete 2019"
+            }],
+            "identifier": "52",
+            "issued": "2020-12-31",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2020-12-31",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Perkebunan, Kementerian Pertanian"
+            },
+            "title": "Produksi Jambu Mete 2019",
+            "description": "Banyaknya hasil (produksi) dari setiap tanaman Jambu Mete menurut bentuk produksi yang diambil berdasarkan luas yang dipanen dan dilaporkan pada tahun 2019",
+            "keyword": ["Jambu Mete", "Produksi Jambu Mete", "Hasil Panen Jambu Mete"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/perkebunan/produksi?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2019&idkomoditas=02035",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Produksi Lada 2019"
+            }],
+            "identifier": "53",
+            "issued": "2020-12-31",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2020-12-31",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Perkebunan, Kementerian Pertanian"
+            },
+            "title": "Produksi Lada 2019",
+            "description": "Banyaknya hasil (produksi) dari setiap tanaman Lada menurut bentuk produksi yang diambil berdasarkan luas yang dipanen dan dilaporkan pada tahun 2019",
+            "keyword": ["Lada", "Produksi Lada", "Hasil Panen Lada"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/perkebunan/produksi?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2019&idkomoditas=02042",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Produksi Pala 2019"
+            }],
+            "identifier": "54",
+            "issued": "2020-12-31",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2020-12-31",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Perkebunan, Kementerian Pertanian"
+            },
+            "title": "Produksi Pala 2019",
+            "description": "Banyaknya hasil (produksi) dari setiap tanaman Pala menurut bentuk produksi yang diambil berdasarkan luas yang dipanen dan dilaporkan pada tahun 2019",
+            "keyword": ["Pala", "Produksi Pala", "Hasil Panen Pala"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/perkebunan/produksi?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2019&idkomoditas=02046",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Produksi Vanili 2019"
+            }],
+            "identifier": "55",
+            "issued": "2020-12-31",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2020-12-31",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Perkebunan, Kementerian Pertanian"
+            },
+            "title": "Produksi Vanili 2019",
+            "description": "Banyaknya hasil (produksi) dari setiap tanaman Vanili menurut bentuk produksi yang diambil berdasarkan luas yang dipanen dan dilaporkan pada tahun 2019",
+            "keyword": ["Vanili", "Produksi Vanili", "Hasil Panen Vanili"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/perkebunan/produksi?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2019&idkomoditas=02027",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Produksi Kelapa Sawit 2019"
+            }],
+            "identifier": "56",
+            "issued": "2020-12-31",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2020-12-31",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Perkebunan, Kementerian Pertanian"
+            },
+            "title": "Produksi Kelapa Sawit 2019",
+            "description": "Banyaknya hasil (produksi) dari setiap tanaman Kelapa Sawit menurut bentuk produksi yang diambil berdasarkan luas yang dipanen dan dilaporkan pada tahun 2019",
+            "keyword": ["Kelapa Sawit", "Produksi Kelapa Sawit", "Hasil Panen Kelapa Sawit"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/perkebunan/produksi?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2019&idkomoditas=02017",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Produksi Karet 2019"
+            }],
+            "identifier": "57",
+            "issued": "2020-12-31",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2020-12-31",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Perkebunan, Kementerian Pertanian"
+            },
+            "title": "Produksi Karet 2019",
+            "description": "Banyaknya hasil (produksi) dari setiap tanaman Karet menurut bentuk produksi yang diambil berdasarkan luas yang dipanen dan dilaporkan pada tahun 2019",
+            "keyword": ["Karet", "Produksi Karet", "Hasil Panen Karet"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/perkebunan/produksi?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2019&idkomoditas=02053",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Produksi Teh 2019"
+            }],
+            "identifier": "58",
+            "issued": "2020-12-31",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2020-12-31",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Perkebunan, Kementerian Pertanian"
+            },
+            "title": "Produksi Teh 2019",
+            "description": "Banyaknya hasil (produksi) dari setiap tanaman Teh menurut bentuk produksi yang diambil berdasarkan luas yang dipanen dan dilaporkan pada tahun 2019",
+            "keyword": ["Teh", "Produksi Teh", "Hasil Panen Teh"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/perkebunan/produksi?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2019&idkomoditas=02004",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Produksi Cengkeh 2019"
+            }],
+            "identifier": "59",
+            "issued": "2020-12-31",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2020-12-31",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Perkebunan, Kementerian Pertanian"
+            },
+            "title": "Produksi Cengkeh 2019",
+            "description": "Banyaknya hasil (produksi) dari setiap tanaman Cengkeh menurut bentuk produksi yang diambil berdasarkan luas yang dipanen dan dilaporkan pada tahun 2019",
+            "keyword": ["Cengkeh", "Produksi Cengkeh", "Hasil Panen Cengkeh"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/perkebunan/produksi?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2019&idkomoditas=02022",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Produksi Kayu manis 2019"
+            }],
+            "identifier": "60",
+            "issued": "2020-12-31",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2020-12-31",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Perkebunan, Kementerian Pertanian"
+            },
+            "title": "Produksi Kayu manis 2019",
+            "description": "Banyaknya hasil (produksi) dari setiap tanaman Kayu manis menurut bentuk produksi yang diambil berdasarkan luas yang dipanen dan dilaporkan pada tahun 2019",
+            "keyword": ["Kayu manis", "Produksi Kayu manis", "Hasil Panen Kayu manis"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/perkebunan/produksi?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2019&idkomoditas=02041",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Produksi Nilam 2019"
+            }],
+            "identifier": "61",
+            "issued": "2020-12-31",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2020-12-31",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Perkebunan, Kementerian Pertanian"
+            },
+            "title": "Produksi Nilam 2019",
+            "description": "Banyaknya hasil (produksi) dari setiap tanaman Nilam menurut bentuk produksi yang diambil berdasarkan luas yang dipanen dan dilaporkan pada tahun 2019",
+            "keyword": ["Nilam", "Produksi Nilam", "Hasil Panen Nilam"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/perkebunan/produksi?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2019&idkomoditas=02072",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Produksi Sagu 2019"
+            }],
+            "identifier": "62",
+            "issued": "2020-12-31",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2020-12-31",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Perkebunan, Kementerian Pertanian"
+            },
+            "title": "Produksi Sagu 2019",
+            "description": "Banyaknya hasil (produksi) dari setiap tanaman Sagu menurut bentuk produksi yang diambil berdasarkan luas yang dipanen dan dilaporkan pada tahun 2019",
+            "keyword": ["Sagu", "Produksi Sagu", "Hasil Panen Sagu"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/perkebunan/produksi?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2019&idkomoditas=02051",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Produksi Tebu 2019"
+            }],
+            "identifier": "63",
+            "issued": "2020-12-31",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2020-12-31",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Perkebunan, Kementerian Pertanian"
+            },
+            "title": "Produksi Tebu 2019",
+            "description": "Banyaknya hasil (produksi) dari setiap tanaman Tebu menurut bentuk produksi yang diambil berdasarkan luas yang dipanen dan dilaporkan pada tahun 2019",
+            "keyword": ["Tebu", "Produksi Tebu", "Hasil Panen Tebu"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/perkebunan/produksi?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2019&idkomoditas=02055",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Produksi Tembakau 2019"
+            }],
+            "identifier": "64",
+            "issued": "2020-12-31",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2020-12-31",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Perkebunan, Kementerian Pertanian"
+            },
+            "title": "Produksi Tembakau 2019",
+            "description": "Banyaknya hasil (produksi) dari setiap tanaman Tembakau menurut bentuk produksi yang diambil berdasarkan luas yang dipanen dan dilaporkan pada tahun 2019",
+            "keyword": ["Tembakau", "Produksi Tembakau", "Hasil Panen Tembakau"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/perkebunan/produksi?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2019&idkomoditas=02014",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Produksi Kapas 2019"
+            }],
+            "identifier": "65",
+            "issued": "2020-12-31",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2020-12-31",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Perkebunan, Kementerian Pertanian"
+            },
+            "title": "Produksi Kapas 2019",
+            "description": "Banyaknya hasil (produksi) dari setiap tanaman Kapas menurut bentuk produksi yang diambil berdasarkan luas yang dipanen dan dilaporkan pada tahun 2019",
+            "keyword": ["Kapas", "Produksi Kapas", "Hasil Panen Kapas"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/perkebunan/produksi?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2019&idkomoditas=02070",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Produksi Kemiri Sunan 2019"
+            }],
+            "identifier": "66",
+            "issued": "2020-12-31",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2020-12-31",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Perkebunan, Kementerian Pertanian"
+            },
+            "title": "Produksi Kemiri Sunan 2019",
+            "description": "Banyaknya hasil (produksi) dari setiap tanaman Kemiri Sunan menurut bentuk produksi yang diambil berdasarkan luas yang dipanen dan dilaporkan pada tahun 2019",
+            "keyword": ["Kemiri Sunan", "Produksi Kemiri Sunan", "Hasil Panen Kemiri Sunan"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/perkebunan/produktivitas?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2019&idkomoditas=02033",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Produktivitas Kopi Robusta 2019"
+            }],
+            "identifier": "67",
+            "issued": "2020-12-31",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2020-12-31",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Perkebunan, Kementerian Pertanian"
+            },
+            "title": "Produktivitas Kopi Robusta 2019",
+            "description": "Indikator banyaknya hasil (produksi) tanaman Kopi Robusta untuk setiap satu satuan luas tanaman yang dipanen pada tahun 2019",
+            "keyword": ["Kopi Robusta", "Produktivitas Kopi Robusta"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/perkebunan/produktivitas?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2019&idkomoditas=02058",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Produktivitas Kopi Arabika 2019"
+            }],
+            "identifier": "68",
+            "issued": "2020-12-31",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2020-12-31",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Perkebunan, Kementerian Pertanian"
+            },
+            "title": "Produktivitas Kopi Arabika 2019",
+            "description": "Indikator banyaknya hasil (produksi) tanaman Kopi Arabika untuk setiap satu satuan luas tanaman yang dipanen pada tahun 2019",
+            "keyword": ["Kopi Arabika", "Produktivitas Kopi Arabika"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/perkebunan/produktivitas?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2019&idkomoditas=02012",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Produktivitas Kakao 2019"
+            }],
+            "identifier": "69",
+            "issued": "2020-12-31",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2020-12-31",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Perkebunan, Kementerian Pertanian"
+            },
+            "title": "Produktivitas Kakao 2019",
+            "description": "Indikator banyaknya hasil (produksi) tanaman Kakao untuk setiap satu satuan luas tanaman yang dipanen pada tahun 2019",
+            "keyword": ["Kakao", "Produktivitas Kakao"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/perkebunan/produktivitas?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2019&idkomoditas=02060",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Produktivitas Kelapa Hibrida 2019"
+            }],
+            "identifier": "70",
+            "issued": "2020-12-31",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2020-12-31",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Perkebunan, Kementerian Pertanian"
+            },
+            "title": "Produktivitas Kelapa Hibrida 2019",
+            "description": "Indikator banyaknya hasil (produksi) tanaman Kelapa Hibrida untuk setiap satu satuan luas tanaman yang dipanen pada tahun 2019",
+            "keyword": ["Kelapa Hibrida", "Produktivitas Kelapa Hibrida"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/perkebunan/produktivitas?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2019&idkomoditas=02059",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Produktivitas Kelapa Dalam 2019"
+            }],
+            "identifier": "71",
+            "issued": "2020-12-31",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2020-12-31",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Perkebunan, Kementerian Pertanian"
+            },
+            "title": "Produktivitas Kelapa Dalam 2019",
+            "description": "Indikator banyaknya hasil (produksi) tanaman Kelapa Dalam untuk setiap satu satuan luas tanaman yang dipanen pada tahun 2019",
+            "keyword": ["Kelapa Dalam", "Produktivitas Kelapa Dalam"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/perkebunan/produktivitas?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2019&idkomoditas=02009",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Produktivitas Jambu Mete 2019"
+            }],
+            "identifier": "72",
+            "issued": "2020-12-31",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2020-12-31",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Perkebunan, Kementerian Pertanian"
+            },
+            "title": "Produktivitas Jambu Mete 2019",
+            "description": "Indikator banyaknya hasil (produksi) tanaman Jambu Mete untuk setiap satu satuan luas tanaman yang dipanen pada tahun 2019",
+            "keyword": ["Jambu Mete", "Produktivitas Jambu Mete"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/perkebunan/produktivitas?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2019&idkomoditas=02035",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Produktivitas Lada 2019"
+            }],
+            "identifier": "73",
+            "issued": "2020-12-31",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2020-12-31",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Perkebunan, Kementerian Pertanian"
+            },
+            "title": "Produktivitas Lada 2019",
+            "description": "Indikator banyaknya hasil (produksi) tanaman Lada untuk setiap satu satuan luas tanaman yang dipanen pada tahun 2019",
+            "keyword": ["Lada", "Produktivitas Lada"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/perkebunan/produktivitas?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2019&idkomoditas=02042",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Produktivitas Pala 2019"
+            }],
+            "identifier": "74",
+            "issued": "2020-12-31",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2020-12-31",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Perkebunan, Kementerian Pertanian"
+            },
+            "title": "Produktivitas Pala 2019",
+            "description": "Indikator banyaknya hasil (produksi) tanaman Pala untuk setiap satu satuan luas tanaman yang dipanen pada tahun 2019",
+            "keyword": ["Pala", "Produktivitas Pala"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/perkebunan/produktivitas?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2019&idkomoditas=02046",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Produktivitas Vanili 2019"
+            }],
+            "identifier": "75",
+            "issued": "2020-12-31",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2020-12-31",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Perkebunan, Kementerian Pertanian"
+            },
+            "title": "Produktivitas Vanili 2019",
+            "description": "Indikator banyaknya hasil (produksi) tanaman Vanili untuk setiap satu satuan luas tanaman yang dipanen pada tahun 2019",
+            "keyword": ["Vanili", "Produktivitas Vanili"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/perkebunan/produktivitas?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2019&idkomoditas=02027",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Produktivitas Kelapa Sawit 2019"
+            }],
+            "identifier": "76",
+            "issued": "2020-12-31",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2020-12-31",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Perkebunan, Kementerian Pertanian"
+            },
+            "title": "Produktivitas Kelapa Sawit 2019",
+            "description": "Indikator banyaknya hasil (produksi) tanaman Kelapa Sawit untuk setiap satu satuan luas tanaman yang dipanen pada tahun 2019",
+            "keyword": ["Kelapa Sawit", "Produktivitas Kelapa Sawit"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/perkebunan/produktivitas?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2019&idkomoditas=02017",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Produktivitas Karet 2019"
+            }],
+            "identifier": "77",
+            "issued": "2020-12-31",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2020-12-31",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Perkebunan, Kementerian Pertanian"
+            },
+            "title": "Produktivitas Karet 2019",
+            "description": "Indikator banyaknya hasil (produksi) tanaman Karet untuk setiap satu satuan luas tanaman yang dipanen pada tahun 2019",
+            "keyword": ["Karet", "Produktivitas Karet"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/perkebunan/produktivitas?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2019&idkomoditas=02053",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Produktivitas Teh 2019"
+            }],
+            "identifier": "78",
+            "issued": "2020-12-31",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2020-12-31",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Perkebunan, Kementerian Pertanian"
+            },
+            "title": "Produktivitas Teh 2019",
+            "description": "Indikator banyaknya hasil (produksi) tanaman Teh untuk setiap satu satuan luas tanaman yang dipanen pada tahun 2019",
+            "keyword": ["Teh", "Produktivitas Teh"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/perkebunan/produktivitas?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2019&idkomoditas=02004",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Produktivitas Cengkeh 2019"
+            }],
+            "identifier": "79",
+            "issued": "2020-12-31",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2020-12-31",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Perkebunan, Kementerian Pertanian"
+            },
+            "title": "Produktivitas Cengkeh 2019",
+            "description": "Indikator banyaknya hasil (produksi) tanaman Cengkeh untuk setiap satu satuan luas tanaman yang dipanen pada tahun 2019",
+            "keyword": ["Cengkeh", "Produktivitas Cengkeh"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/perkebunan/produktivitas?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2019&idkomoditas=02022",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Produktivitas Kayu manis 2019"
+            }],
+            "identifier": "80",
+            "issued": "2020-12-31",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2020-12-31",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Perkebunan, Kementerian Pertanian"
+            },
+            "title": "Produktivitas Kayu manis 2019",
+            "description": "Indikator banyaknya hasil (produksi) tanaman Kayu manis untuk setiap satu satuan luas tanaman yang dipanen pada tahun 2019",
+            "keyword": ["Kayu manis", "Produktivitas Kayu manis"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/perkebunan/produktivitas?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2019&idkomoditas=02041",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Produktivitas Nilam 2019"
+            }],
+            "identifier": "81",
+            "issued": "2020-12-31",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2020-12-31",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Perkebunan, Kementerian Pertanian"
+            },
+            "title": "Produktivitas Nilam 2019",
+            "description": "Indikator banyaknya hasil (produksi) tanaman Nilam untuk setiap satu satuan luas tanaman yang dipanen pada tahun 2019",
+            "keyword": ["Nilam", "Produktivitas Nilam"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/perkebunan/produktivitas?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2019&idkomoditas=02072",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Produktivitas Sagu 2019"
+            }],
+            "identifier": "82",
+            "issued": "2020-12-31",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2020-12-31",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Perkebunan, Kementerian Pertanian"
+            },
+            "title": "Produktivitas Sagu 2019",
+            "description": "Indikator banyaknya hasil (produksi) tanaman Sagu untuk setiap satu satuan luas tanaman yang dipanen pada tahun 2019",
+            "keyword": ["Sagu", "Produktivitas Sagu"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/perkebunan/produktivitas?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2019&idkomoditas=02051",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Produktivitas Tebu 2019"
+            }],
+            "identifier": "83",
+            "issued": "2020-12-31",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2020-12-31",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Perkebunan, Kementerian Pertanian"
+            },
+            "title": "Produktivitas Tebu 2019",
+            "description": "Indikator banyaknya hasil (produksi) tanaman Tebu untuk setiap satu satuan luas tanaman yang dipanen pada tahun 2019",
+            "keyword": ["Tebu", "Produktivitas Tebu"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/perkebunan/produktivitas?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2019&idkomoditas=02055",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Produktivitas Tembakau 2019"
+            }],
+            "identifier": "84",
+            "issued": "2020-12-31",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2020-12-31",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Perkebunan, Kementerian Pertanian"
+            },
+            "title": "Produktivitas Tembakau 2019",
+            "description": "Indikator banyaknya hasil (produksi) tanaman Tembakau untuk setiap satu satuan luas tanaman yang dipanen pada tahun 2019",
+            "keyword": ["Tembakau", "Produktivitas Tembakau"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/perkebunan/produktivitas?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2019&idkomoditas=02014",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Produktivitas Kapas 2019"
+            }],
+            "identifier": "85",
+            "issued": "2020-12-31",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2020-12-31",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Perkebunan, Kementerian Pertanian"
+            },
+            "title": "Produktivitas Kapas 2019",
+            "description": "Indikator banyaknya hasil (produksi) tanaman Kapas untuk setiap satu satuan luas tanaman yang dipanen pada tahun 2019",
+            "keyword": ["Kapas", "Produktivitas Kapas"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/perkebunan/produktivitas?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2019&idkomoditas=02070",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Produktivitas Kemiri Sunan 2019"
+            }],
+            "identifier": "86",
+            "issued": "2020-12-31",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2020-12-31",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Perkebunan, Kementerian Pertanian"
+            },
+            "title": "Produktivitas Kemiri Sunan 2019",
+            "description": "Indikator banyaknya hasil (produksi) tanaman Kemiri Sunan untuk setiap satu satuan luas tanaman yang dipanen pada tahun 2019",
+            "keyword": ["Kemiri Sunan", "Produktivitas Kemiri Sunan"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/peternakan/populasi?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2020&idkomoditas=03052",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Populasi Sapi Potong 2020"
+            }],
+            "identifier": "87",
+            "issued": "2020-09-31",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2020-09-31",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Peternakan dan Kesehatan Hewan, Kementerian Pertanian"
+            },
+            "title": "Populasi Sapi Potong 2020",
+            "description": "Jumlah ternak Sapi Potong yang hidup pada wilayah tertentu selama tahun 2020.",
+            "keyword": ["Sapi Potong", "Populasi Sapi Potong", "Sapi"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/peternakan/populasi?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2020&idkomoditas=03051",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Populasi Sapi Perah 2020"
+            }],
+            "identifier": "88",
+            "issued": "2020-09-31",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2020-09-31",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Peternakan dan Kesehatan Hewan, Kementerian Pertanian"
+            },
+            "title": "Populasi Sapi Perah 2020",
+            "description": "Jumlah ternak Sapi Perah yang hidup pada wilayah tertentu selama tahun 2020.",
+            "keyword": ["Sapi Perah", "Populasi Sapi Perah", "Sapi"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/peternakan/populasi?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2020&idkomoditas=03043",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Populasi Kerbau 2020"
+            }],
+            "identifier": "89",
+            "issued": "2020-09-31",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2020-09-31",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Peternakan dan Kesehatan Hewan, Kementerian Pertanian"
+            },
+            "title": "Populasi Kerbau 2020",
+            "description": "Jumlah ternak Kerbau yang hidup pada wilayah tertentu selama tahun 2020.",
+            "keyword": ["Kerbau", "Populasi Kerbau"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/peternakan/populasi?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2020&idkomoditas=03046",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Populasi Kuda 2020"
+            }],
+            "identifier": "90",
+            "issued": "2020-09-31",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2020-09-31",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Peternakan dan Kesehatan Hewan, Kementerian Pertanian"
+            },
+            "title": "Populasi Kuda 2020",
+            "description": "Jumlah ternak Kuda yang hidup pada wilayah tertentu selama tahun 2020.",
+            "keyword": ["Kuda", "Populasi Kuda"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/peternakan/populasi?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2020&idkomoditas=03038",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Populasi Kambing 2020"
+            }],
+            "identifier": "91",
+            "issued": "2020-09-31",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2020-09-31",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Peternakan dan Kesehatan Hewan, Kementerian Pertanian"
+            },
+            "title": "Populasi Kambing 2020",
+            "description": "Jumlah ternak Kambing yang hidup pada wilayah tertentu selama tahun 2020.",
+            "keyword": ["Kambing", "Populasi Kambing"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/peternakan/populasi?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2020&idkomoditas=03034",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Populasi Domba 2020"
+            }],
+            "identifier": "92",
+            "issued": "2020-09-31",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2020-09-31",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Peternakan dan Kesehatan Hewan, Kementerian Pertanian"
+            },
+            "title": "Populasi Domba 2020",
+            "description": "Jumlah ternak Domba yang hidup pada wilayah tertentu selama tahun 2020.",
+            "keyword": ["Domba", "Populasi Domba"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/peternakan/populasi?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2020&idkomoditas=03008",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Populasi Babi 2020"
+            }],
+            "identifier": "93",
+            "issued": "2020-09-31",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2020-09-31",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Peternakan dan Kesehatan Hewan, Kementerian Pertanian"
+            },
+            "title": "Populasi Babi 2020",
+            "description": "Jumlah ternak Babi yang hidup pada wilayah tertentu selama tahun 2020.",
+            "keyword": ["Babi", "Populasi Babi"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/peternakan/populasi?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2020&idkomoditas=03004",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Populasi Ayam Buras 2020"
+            }],
+            "identifier": "94",
+            "issued": "2020-09-31",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2020-09-31",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Peternakan dan Kesehatan Hewan, Kementerian Pertanian"
+            },
+            "title": "Populasi Ayam Buras 2020",
+            "description": "Jumlah ternak Ayam Buras yang hidup pada wilayah tertentu selama tahun 2020.",
+            "keyword": ["Ayam Buras", "Populasi Ayam Buras", "Ayam Bukan Ras", "Populasi Ayam Bukan Ras", "Ayam Kampung", "Ayam Lokal", "Populasi Ayam Kampung"]
+        },
+
+
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/peternakan/populasi?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2020&idkomoditas=03037",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Populasi Itik 2020"
+            }],
+            "identifier": "97",
+            "issued": "2020-09-31",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2020-09-31",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Peternakan dan Kesehatan Hewan, Kementerian Pertanian"
+            },
+            "title": "Populasi Itik 2020",
+            "description": "Jumlah ternak Itik yang hidup pada wilayah tertentu selama tahun 2020.",
+            "keyword": ["Itik", "Populasi Itik"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/peternakan/populasi?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2020&idkomoditas=03012",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Populasi Itik Manila 2020"
+            }],
+            "identifier": "98",
+            "issued": "2020-09-31",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2020-09-31",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Peternakan dan Kesehatan Hewan, Kementerian Pertanian"
+            },
+            "title": "Populasi Itik Manila 2020",
+            "description": "Jumlah ternak Itik Manila yang hidup pada wilayah tertentu selama tahun 2020.",
+            "keyword": ["Itik Manila", "Populasi Itik Manila"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/peternakan/populasi?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2020&idkomoditas=03009",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Populasi Kelinci 2020"
+            }],
+            "identifier": "99",
+            "issued": "2020-09-31",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2020-09-31",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Peternakan dan Kesehatan Hewan, Kementerian Pertanian"
+            },
+            "title": "Populasi Kelinci 2020",
+            "description": "Jumlah ternak Kelinci yang hidup pada wilayah tertentu selama tahun 2020.",
+            "keyword": ["Kelinci", "Populasi Kelinci"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/peternakan/populasi?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2020&idkomoditas=03011",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Populasi Puyuh 2020"
+            }],
+            "identifier": "100",
+            "issued": "2020-09-31",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2020-09-31",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Peternakan dan Kesehatan Hewan, Kementerian Pertanian"
+            },
+            "title": "Populasi Puyuh 2020",
+            "description": "Jumlah ternak Puyuh yang hidup pada wilayah tertentu selama tahun 2020.",
+            "keyword": ["Puyuh", "Populasi Burung Puyuh", "Burung Puyuh", "Populasi Puyuh"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/peternakan/produksi?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2020&idkomoditas=03020",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Produksi Daging Sapi 2020"
+            }],
+            "identifier": "101",
+            "issued": "2020-09-31",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2020-09-31",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Peternakan dan Kesehatan Hewan, Kementerian Pertanian"
+            },
+            "title": "Produksi Daging Sapi 2020",
+            "description": "Jumlah karkas hasil pemotongan ternak Sapi ditambah dengan bagian yang dapat dimakan (edible portion) selama tahun 2020. Edible portion adalah organ-organ dan bagian selain karkas yang dapat dikonsumsi, meliputi jeroan (edible offal) dan daging variasi (fancy meat).",
+            "keyword": ["Daging Sapi", "Produksi Daging Sapi", "Produksi Sapi Potong", "Produksi Sapi Perah", "Sapi Potong", "Sapi Perah"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/peternakan/produksi?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2020&idkomoditas=03019",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Produksi Daging Kerbau 2020"
+            }],
+            "identifier": "102",
+            "issued": "2020-09-31",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2020-09-31",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Peternakan dan Kesehatan Hewan, Kementerian Pertanian"
+            },
+            "title": "Produksi Daging Kerbau 2020",
+            "description": "Jumlah karkas hasil pemotongan ternak Kerbau ditambah dengan bagian yang dapat dimakan (edible portion) selama tahun 2020. Edible portion adalah organ-organ dan bagian selain karkas yang dapat dikonsumsi, meliputi jeroan (edible offal) dan daging variasi (fancy meat).",
+            "keyword": ["Daging Kerbau", "Produksi Daging Kerbau", "Kerbau"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/peternakan/produksi?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2020&idkomoditas=03027",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Produksi Daging Kuda 2020"
+            }],
+            "identifier": "103",
+            "issued": "2020-09-31",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2020-09-31",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Peternakan dan Kesehatan Hewan, Kementerian Pertanian"
+            },
+            "title": "Produksi Daging Kuda 2020",
+            "description": "Jumlah karkas hasil pemotongan ternak Kuda ditambah dengan bagian yang dapat dimakan (edible portion) selama tahun 2020. Edible portion adalah organ-organ dan bagian selain karkas yang dapat dikonsumsi, meliputi jeroan (edible offal) dan daging variasi (fancy meat).",
+            "keyword": ["Daging Kuda", "Produksi Daging Kuda", "Kuda"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/peternakan/produksi?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2020&idkomoditas=03018",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Produksi Daging Kambing 2020"
+            }],
+            "identifier": "104",
+            "issued": "2020-09-31",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2020-09-31",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Peternakan dan Kesehatan Hewan, Kementerian Pertanian"
+            },
+            "title": "Produksi Daging Kambing 2020",
+            "description": "Jumlah karkas hasil pemotongan ternak Kambing ditambah dengan bagian yang dapat dimakan (edible portion) selama tahun 2020. Edible portion adalah organ-organ dan bagian selain karkas yang dapat dikonsumsi, meliputi jeroan (edible offal) dan daging variasi (fancy meat).",
+            "keyword": ["Daging Kambing", "Produksi Daging Kambing", "Kambing"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/peternakan/produksi?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2020&idkomoditas=03017",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Produksi Daging Domba 2020"
+            }],
+            "identifier": "105",
+            "issued": "2020-09-31",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2020-09-31",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Peternakan dan Kesehatan Hewan, Kementerian Pertanian"
+            },
+            "title": "Produksi Daging Domba 2020",
+            "description": "Jumlah karkas hasil pemotongan ternak Domba ditambah dengan bagian yang dapat dimakan (edible portion) selama tahun 2020. Edible portion adalah organ-organ dan bagian selain karkas yang dapat dikonsumsi, meliputi jeroan (edible offal) dan daging variasi (fancy meat).",
+            "keyword": ["Daging Domba", "Produksi Daging Domba", "Domba"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/peternakan/produksi?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2020&idkomoditas=03016",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Produksi Daging Babi 2020"
+            }],
+            "identifier": "106",
+            "issued": "2020-09-31",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2020-09-31",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Peternakan dan Kesehatan Hewan, Kementerian Pertanian"
+            },
+            "title": "Produksi Daging Babi 2020",
+            "description": "Jumlah karkas hasil pemotongan ternak Babi ditambah dengan bagian yang dapat dimakan (edible portion) selama tahun 2020. Edible portion adalah organ-organ dan bagian selain karkas yang dapat dikonsumsi, meliputi jeroan (edible offal) dan daging variasi (fancy meat).",
+            "keyword": ["Daging Babi", "Produksi Daging Babi", "Babi"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/peternakan/produksi?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2020&idkomoditas=03021",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Produksi Daging Ayam Buras 2020"
+            }],
+            "identifier": "107",
+            "issued": "2020-09-31",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2020-09-31",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Peternakan dan Kesehatan Hewan, Kementerian Pertanian"
+            },
+            "title": "Produksi Daging Ayam Buras 2020",
+            "description": "Jumlah karkas hasil pemotongan ternak Ayam Buras ditambah dengan bagian yang dapat dimakan (edible portion) selama tahun 2020. Edible portion adalah organ-organ dan bagian selain karkas yang dapat dikonsumsi, meliputi jeroan (edible offal) dan daging variasi (fancy meat).",
+            "keyword": ["Daging Ayam Buras", "Produksi Daging Ayam Buras", "Ayam Bukan Ras", "Ayam Buras", "Ayam Kampung", "Ayam Lokal", "Daging Ayam Kampung"]
+        },
+
+
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/peternakan/produksi?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2020&idkomoditas=03025",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Produksi Daging Itik 2020"
+            }],
+            "identifier": "110",
+            "issued": "2020-09-31",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2020-09-31",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Peternakan dan Kesehatan Hewan, Kementerian Pertanian"
+            },
+            "title": "Produksi Daging Itik 2020",
+            "description": "Jumlah karkas hasil pemotongan ternak Itik ditambah dengan bagian yang dapat dimakan (edible portion) selama tahun 2020. Edible portion adalah organ-organ dan bagian selain karkas yang dapat dikonsumsi, meliputi jeroan (edible offal) dan daging variasi (fancy meat).",
+            "keyword": ["Daging Itik", "Produksi Daging Itik", "Itik"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/peternakan/produksi?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2020&idkomoditas=03032",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Produksi Daging Itik Manila 2020"
+            }],
+            "identifier": "111",
+            "issued": "2020-09-31",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2020-09-31",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Peternakan dan Kesehatan Hewan, Kementerian Pertanian"
+            },
+            "title": "Produksi Daging Itik Manila 2020",
+            "description": "Jumlah karkas hasil pemotongan ternak Itik Manila ditambah dengan bagian yang dapat dimakan (edible portion) selama tahun 2020. Edible portion adalah organ-organ dan bagian selain karkas yang dapat dikonsumsi, meliputi jeroan (edible offal) dan daging variasi (fancy meat).",
+            "keyword": ["Daging Itik Manila", "Produksi Daging Itik Manila", "Itik Manila"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/peternakan/produksi?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2020&idkomoditas=03028",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Produksi Daging Kelinci 2020"
+            }],
+            "identifier": "112",
+            "issued": "2020-09-31",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2020-09-31",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Peternakan dan Kesehatan Hewan, Kementerian Pertanian"
+            },
+            "title": "Produksi Daging Kelinci 2020",
+            "description": "Jumlah karkas hasil pemotongan ternak Kelinci ditambah dengan bagian yang dapat dimakan (edible portion) selama tahun 2020. Edible portion adalah organ-organ dan bagian selain karkas yang dapat dikonsumsi, meliputi jeroan (edible offal) dan daging variasi (fancy meat).",
+            "keyword": ["Daging Kelinci", "Produksi Daging Kelinci", "Kelinci"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/peternakan/produksi?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2020&idkomoditas=03031",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Produksi Daging Puyuh 2020"
+            }],
+            "identifier": "113",
+            "issued": "2020-09-31",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2020-09-31",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Peternakan dan Kesehatan Hewan, Kementerian Pertanian"
+            },
+            "title": "Produksi Daging Puyuh 2020",
+            "description": "Jumlah karkas hasil pemotongan ternak Puyuh ditambah dengan bagian yang dapat dimakan (edible portion) selama tahun 2020. Edible portion adalah organ-organ dan bagian selain karkas yang dapat dikonsumsi, meliputi jeroan (edible offal) dan daging variasi (fancy meat).",
+            "keyword": ["Daging Puyuh", "Produksi Daging Puyuh", "Daging Burung Puyuh", "Puyuh", "Burung Puyuh"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/peternakan/produksi?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2020&idkomoditas=03059",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Produksi Telur Ayam Buras 2020"
+            }],
+            "identifier": "114",
+            "issued": "2020-09-31",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2020-09-31",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Peternakan dan Kesehatan Hewan, Kementerian Pertanian"
+            },
+            "title": "Produksi Telur Ayam Buras 2020",
+            "description": "Jumlah hasil produksi telur Ayam Buras selama tahun 2020, termasuk yang ditetaskan, rusak, diperdagangkan, dikonsumsi dan diberikan ke orang lain.",
+            "keyword": ["Telur Ayam Buras", "Produksi Telur Ayam Buras", "Ayam Bukan Ras", "Buras", "Ayam", "Telur Ayam Kampung", "Ayam Lokal"]
+        },
+
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/peternakan/produksi?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2020&idkomoditas=03062",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Produksi Telur Itik 2020"
+            }],
+            "identifier": "116",
+            "issued": "2020-09-31",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2020-09-31",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Peternakan dan Kesehatan Hewan, Kementerian Pertanian"
+            },
+            "title": "Produksi Telur Itik 2020",
+            "description": "Jumlah hasil produksi telur Itik selama tahun 2020, termasuk yang ditetaskan, rusak, diperdagangkan, dikonsumsi dan diberikan ke orang lain.",
+            "keyword": ["Telur Itik", "Produksi Telur Itik", "Itik"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/peternakan/produksi?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2020&idkomoditas=03064",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Produksi Telur Itik Manila 2020"
+            }],
+            "identifier": "117",
+            "issued": "2020-09-31",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2020-09-31",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Peternakan dan Kesehatan Hewan, Kementerian Pertanian"
+            },
+            "title": "Produksi Telur Itik Manila 2020",
+            "description": "Jumlah hasil produksi telur Itik Manila selama tahun 2020, termasuk yang ditetaskan, rusak, diperdagangkan, dikonsumsi dan diberikan ke orang lain.",
+            "keyword": ["Telur Itik Manila", "Produksi Telur Itik Manila", "Itik Manila"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/peternakan/produksi?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2020&idkomoditas=03063",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Produksi Telur Puyuh 2020"
+            }],
+            "identifier": "118",
+            "issued": "2020-09-31",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2020-09-31",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Peternakan dan Kesehatan Hewan, Kementerian Pertanian"
+            },
+            "title": "Produksi Telur Puyuh 2020",
+            "description": "Jumlah hasil produksi telur Puyuh selama tahun 2020, termasuk yang ditetaskan, rusak, diperdagangkan, dikonsumsi dan diberikan ke orang lain.",
+            "keyword": ["Telur Puyuh", "Produksi Telur Puyuh", "Puyuh", "Burung Puyuh"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/api/satudata/peternakan/produksi?api-key=35f26e48a813db830799d4351d3a3d7c&tahun=2020&idkomoditas=03071",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Produksi Susu 2020"
+            }],
+            "identifier": "119",
+            "issued": "2020-09-31",
+            "landingPage": "https://aplikasi2.pertanian.go.id/bdsp",
+            "modified": "2020-09-31",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Direktorat Jenderal Peternakan dan Kesehatan Hewan, Kementerian Pertanian"
+            },
+            "title": "Produksi Susu 2020",
+            "description": "Jumlah air susu yang keluar dan Sapi Betina pada tahun 2020, termasuk yang diberikan kepada pedet/anak sapi, rusak, diperdagangkan, dikonsumsi, dan diberikan kepada orang lain.",
+            "keyword": ["Susu", "Produksi Susu", "Sapi", "Susu Sapi", "Sapi Perah"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/iklimoptdpi/rekap/all?tahun=2020&id_var=5",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Luas Serangan OPT Utama Tanaman Padi 2020"
+            }],
+            "identifier": "120",
+            "issued": "2021-01-19",
+            "landingPage": "http://prasarana.pertanian.go.id/iklimoptdpimy/",
+            "modified": "2021-01-19",
+            "accrualPeriodicity": "Bulanan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Direktorat Perlindungan Tanaman Pangan, Direktorat Jenderal Tanaman Pangan"
+            },
+            "title": "Luas Serangan OPT Utama Tanaman Padi 2020",
+            "description": "Organisme Pengganggu Tumbuhan (OPT) adalah semua organisme yang dapat merusak, mengganggu kehidupan, atau menyebabkan kematian tumbuhan. OPT Utama adalah Organisme Pengganggu Tumbuhan yang selalu ada dan menyebabkan kerugian secara ekonomi dengan persentase luas serangan yang lebih besar daripada OPT lainnya.",
+            "keyword": ["OPT", "Tanaman", "Padi"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/iklimoptdpi/rekap/all?tahun=2020&id_var=6",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Luas Serangan OPT Utama Tanaman Jagung 2020"
+            }],
+            "identifier": "121",
+            "issued": "2021-01-19",
+            "landingPage": "http://prasarana.pertanian.go.id/iklimoptdpimy/",
+            "modified": "2021-01-19",
+            "accrualPeriodicity": "Bulanan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Direktorat Perlindungan Tanaman Pangan, Direktorat Jenderal Tanaman Pangan"
+            },
+            "title": "Luas Serangan OPT Utama Tanaman Jagung 2020",
+            "description": "Organisme Pengganggu Tumbuhan (OPT) adalah semua organisme yang dapat merusak, mengganggu kehidupan, atau menyebabkan kematian tumbuhan. OPT Utama adalah Organisme Pengganggu Tumbuhan yang selalu ada dan menyebabkan kerugian secara ekonomi dengan persentase luas serangan yang lebih besar daripada OPT lainnya.",
+            "keyword": ["OPT", "Tanaman", "Jagung"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/iklimoptdpi/rekap/all?tahun=2020&id_var=7",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Luas Serangan OPT Utama Tanaman Kedelai 2020"
+            }],
+            "identifier": "122",
+            "issued": "2021-01-19",
+            "landingPage": "http://prasarana.pertanian.go.id/iklimoptdpimy/",
+            "modified": "2021-01-19",
+            "accrualPeriodicity": "Bulanan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Direktorat Perlindungan Tanaman Pangan, Direktorat Jenderal Tanaman Pangan"
+            },
+            "title": "Luas Serangan OPT Utama Tanaman Kedelai 2020",
+            "description": "Organisme Pengganggu Tumbuhan (OPT) adalah semua organisme yang dapat merusak, mengganggu kehidupan, atau menyebabkan kematian tumbuhan. OPT Utama adalah Organisme Pengganggu Tumbuhan yang selalu ada dan menyebabkan kerugian secara ekonomi dengan persentase luas serangan yang lebih besar daripada OPT lainnya.",
+            "keyword": ["OPT", "Tanaman", "Kedelai"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/iklimoptdpi/rekap/all?tahun=2020&id_var=8",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Luas Banjir Tanaman Padi 2020"
+            }],
+            "identifier": "123",
+            "issued": "2021-01-19",
+            "landingPage": "http://prasarana.pertanian.go.id/iklimoptdpimy/",
+            "modified": "2021-06-16",
+            "accrualPeriodicity": "Bulanan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Direktorat Perlindungan Tanaman Pangan, Direktorat Jenderal Tanaman Pangan"
+            },
+            "title": "Luas Banjir pada Tanaman Padi 2020",
+            "description": "Banjir adalah tergenangnya areal pertanaman selama periode pertumbuhan tanaman dengan ketinggian air dan jangka waktu tertentu, sehingga berpotensi menurunkan produksi tanaman. Dampak Perubahan Iklim (DPI) adalah dampak yang ditimbulkan akibat terjadinya perubahan/variabilitas iklim, antara lain banjir, kekeringan dan bencana alam",
+            "keyword": ["Banjir", "Tanaman", "Padi"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/iklimoptdpi/rekap/all?tahun=2020&id_var=9",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Luas Banjir Tanaman Jagung 2020"
+            }],
+            "identifier": "124",
+            "issued": "2021-01-19",
+            "landingPage": "http://prasarana.pertanian.go.id/iklimoptdpimy/",
+            "modified": "2021-06-16",
+            "accrualPeriodicity": "Bulanan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Direktorat Perlindungan Tanaman Pangan, Direktorat Jenderal Tanaman Pangan"
+            },
+            "title": "Luas Banjir pada Tanaman Jagung 2020",
+            "description": "Banjir adalah tergenangnya areal pertanaman selama periode pertumbuhan tanaman dengan ketinggian air dan jangka waktu tertentu, sehingga berpotensi menurunkan produksi tanaman. Dampak Perubahan Iklim (DPI) adalah dampak yang ditimbulkan akibat terjadinya perubahan/variabilitas iklim, antara lain banjir, kekeringan dan bencana alam",
+            "keyword": ["Banjir", "Tanaman", "Jagung"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/iklimoptdpi/rekap/all?tahun=2020&id_var=10",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Luas Banjir Tanaman Kedelai 2020"
+            }],
+            "identifier": "125",
+            "issued": "2021-01-19",
+            "landingPage": "http://prasarana.pertanian.go.id/iklimoptdpimy/",
+            "modified": "2021-06-16",
+            "accrualPeriodicity": "Bulanan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Direktorat Perlindungan Tanaman Pangan, Direktorat Jenderal Tanaman Pangan"
+            },
+            "title": "Luas Banjir pada Tanaman Kedelai 2020",
+            "description": "Banjir adalah tergenangnya areal pertanaman selama periode pertumbuhan tanaman dengan ketinggian air dan jangka waktu tertentu, sehingga berpotensi menurunkan produksi tanaman. Dampak Perubahan Iklim (DPI) adalah dampak yang ditimbulkan akibat terjadinya perubahan/variabilitas iklim, antara lain banjir, kekeringan dan bencana alam",
+            "keyword": ["Banjir", "Tanaman", "Kedelai"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/iklimoptdpi/rekap/all?tahun=2020&id_var=11",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Luas Kekeringan Tanaman Padi 2020"
+            }],
+            "identifier": "126",
+            "issued": "2021-01-19",
+            "landingPage": "http://prasarana.pertanian.go.id/iklimoptdpimy/",
+            "modified": "2021-06-16",
+            "accrualPeriodicity": "Bulanan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Direktorat Perlindungan Tanaman Pangan, Direktorat Jenderal Tanaman Pangan"
+            },
+            "title": "Luas Kekeringan pada Tanaman Padi 2020",
+            "description": "Kekeringan adalah tidak terpenuhinya kebutuhan air pada fase tertentu yang mengakibatkan pertumbuhan tanaman tidak optimal sehingga berpotensi menurunkan produksi tanaman. Dampak Perubahan Iklim (DPI) adalah dampak yang ditimbulkan akibat terjadinya perubahan/variabilitas iklim, antara lain banjir, kekeringan dan bencana alam",
+            "keyword": ["Kekeringan", "Tanaman", "Padi"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/iklimoptdpi/rekap/all?tahun=2020&id_var=12",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Luas Kekeringan Tanaman Jagung 2020"
+            }],
+            "identifier": "127",
+            "issued": "2021-01-19",
+            "landingPage": "http://prasarana.pertanian.go.id/iklimoptdpimy/",
+            "modified": "2021-06-16",
+            "accrualPeriodicity": "Bulanan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Direktorat Perlindungan Tanaman Pangan, Direktorat Jenderal Tanaman Pangan"
+            },
+            "title": "Luas Kekeringan pada Tanaman Jagung 2020",
+            "description": "Kekeringan adalah tidak terpenuhinya kebutuhan air pada fase tertentu yang mengakibatkan pertumbuhan tanaman tidak optimal sehingga berpotensi menurunkan produksi tanaman. Dampak Perubahan Iklim (DPI) adalah dampak yang ditimbulkan akibat terjadinya perubahan/variabilitas iklim, antara lain banjir, kekeringan dan bencana alam",
+            "keyword": ["Kekeringan", "Tanaman", "Jagung"]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [{
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://api.pertanian.go.id/iklimoptdpi/rekap/all?tahun=2020&id_var=13",
+                "mediaType": "application/json",
+                "format": "json",
+                "title": "Data Keluaran Luas Kekeringan Tanaman Kedelai 2020"
+            }],
+            "identifier": "128",
+            "issued": "2021-01-19",
+            "landingPage": "http://prasarana.pertanian.go.id/iklimoptdpimy/",
+            "modified": "2021-06-16",
+            "accrualPeriodicity": "Bulanan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Direktorat Perlindungan Tanaman Pangan, Direktorat Jenderal Tanaman Pangan"
+            },
+            "title": "Luas Kekeringan pada Tanaman Kedelai 2020",
+            "description": "Kekeringan adalah tidak terpenuhinya kebutuhan air pada fase tertentu yang mengakibatkan pertumbuhan tanaman tidak optimal sehingga berpotensi menurunkan produksi tanaman. Dampak Perubahan Iklim (DPI) adalah dampak yang ditimbulkan akibat terjadinya perubahan/variabilitas iklim, antara lain banjir, kekeringan dan bencana alam",
+            "keyword": ["Kekeringan", "Tanaman", "Kedelai"]
+        }
+    ]
+}
