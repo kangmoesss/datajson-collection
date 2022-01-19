@@ -3,48 +3,74 @@
 	<request verb="ListRecords" metadataPrefix="oai_dc">https://anri.sikn.go.id/;oai</request>
 	<ListRecords>
 		<record>
-			<header>
-				<identifier>oai:anri.sikn.go.id:anrisikn/9532</identifier>
-				<datestamp>2017-12-06T23:58:39Z</datestamp>
-				<setSpec>oai:anri.sikn.go.id:anrisikn_5781</setSpec>
-			</header>
-			<metadata>
-				<oai_dc:dc
-					xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
-					xmlns:dc="http://purl.org/dc/elements/1.1/"
-					xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-					<dc:title>Banjoemas</dc:title>
-					<dc:creator>Algemene Secretarie</dc:creator>
-					<dc:subject>Pemerintahan</dc:subject>
-					<dc:format>application/pdf</dc:format>
-					<dc:identifier>http://anri.sikn.go.id/banjoemas</dc:identifier>
-					<dc:identifier>K13</dc:identifier>
-					<dc:source>Arsip Nasional Republik Indonesia</dc:source>
-					<dc:relation>http://anri.sikn.go.id/arsip-nasional-republik-indonesia-3</dc:relation>
-					<dc:relation>Arsip Nasional Republik Indonesia 2019</dc:relation>
-				</oai_dc:dc>
-			</metadata>
-		</record>
-		<record>
-			<header>
-				<identifier>oai:anri.sikn.go.id:anrisikn/6475</identifier>
-				<datestamp>2017-12-13T04:51:45Z</datestamp>
-				<setSpec>oai:anri.sikn.go.id:anrisikn_5781</setSpec>
-			</header>
-			<metadata>
-				<oai_dc:dc
-					xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
-					xmlns:dc="http://purl.org/dc/elements/1.1/"
-					xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-					<dc:creator>Algemene Secretarie</dc:creator>
-					<dc:subject>Pemerintahan</dc:subject>
-					<dc:format>application/pdf</dc:format>
-					<dc:identifier>http://anri.sikn.go.id/afgaande-brieven-naar-raad-van-justitie-politie-te-semarang-van-gouverneur-generaal-nederlandsch-indie</dc:identifier>
-					<dc:identifier>1</dc:identifier>
-					<dc:relation>http://anri.sikn.go.id/arsip-nasional-republik-indonesia-3</dc:relation>
-					<dc:relation>Arsip Nasional Republik Indonesia 2019</dc:relation>
-				</oai_dc:dc>
-			</metadata>
-		</record>
-	</ListRecords>
+	<header>
+		<identifier>oai:jurnal.ugm.ac.id:article/3847</identifier>
+		<datestamp>2014-06-30T07:28:08Z</datestamp>
+		<setSpec>jain:ART</setSpec>
+	</header>
+	<metadata>
+		<oai_dc:dc
+			xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+			xmlns:dc="http://purl.org/dc/elements/1.1/"
+			xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title xml:lang="id-ID">TREATMENT PATTERNS OF PATIENTS WITH RHEUMATOID ARTHRITIS ACCORDING TO THE PRESENCE OF RHEUMATOID FACTOR</dc:title>
+			<dc:creator>Rajendran, Puvaneswary</dc:creator>
+			<dc:description xml:lang="id-ID">ABSTRACTBackground: High titer of rheumatoid factor (RF) in the serum of patients with rheumatoid arthritis (RA) is mostly associated with more severe disease and presence of extra-articular features. To choose the best treatment of RA need the combination of science and art. Objective: the aim of the study was to find the comparison of pharmacological treatment patterns in rheumatoid arthritis patients according to the presence of rheumatoid factor in the serum.Method: This study was a retrospective quantitative observational. The data was collected from medical records of new patients with rheumatoid arthritis who came to the appointment at Rheumatology Clinic Dr. Sardjito Hospital, Yogyakarta in 2010.Results: The total of 39 new patients was eligible in this study. A corticosteroid was the most commonly prescribed (93% of the sero-positive and 84% of the sero-negative patients). Disease modifying anti rheumatic drugs (DMARDs) were used in 92% sero-positive and 84% sero-negative patients (p=0.827; df=6). In choosing the DMARDs, Chloroquine was the most commonly prescribed (29% of sero-positive and 44% of sero-negative patients), followed by methotrexate (21% of sero-positive and 24% of sero-negative) and suphasalazine (21% of sero-positive and 0% of sero-negative). Leflunomide, doxycycline and combined DMARDs were some time prescribed. Non steroidal anti-inflammatory drugs (NSAIDs) were used in 64% sero-positive and 68% sero-negative patients. Conclusion: Corticosteroid was the most commonly prescribed drug. There was no difference between the sero-positive and sero-negative of total patients using DMARDs.  Keywords: Rheumatoid arthritis, rheumatoid factor, corticosteroid, diseases modifying anti-rheumatic drugs, non-steroidal anti-inflammatory drugs. </dc:description>
+			<dc:publisher xml:lang="en-US">Faculty of Medicine Universitas Gadjah Mada</dc:publisher>
+			<dc:contributor xml:lang="id-ID"></dc:contributor>
+			<dc:date>2013-06-01</dc:date>
+			<dc:type>info:eu-repo/semantics/article</dc:type>
+			<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+			<dc:type xml:lang="en-US">Peer-reviewed Article</dc:type>
+			<dc:identifier>https://jurnal.ugm.ac.id/jain/article/view/3847</dc:identifier>
+			<dc:identifier>10.22146/acta interna.3847</dc:identifier>
+			<dc:source xml:lang="en-US">Acta Interna: The Journal of Internal Medicine; Vol 3, No 1 (2013): Acta Interna The Journal of Internal Medicine; 16 - 20</dc:source>
+			<dc:source xml:lang="id-ID">Acta Interna The Journal of Internal Medicine; Vol 3, No 1 (2013): Acta Interna The Journal of Internal Medicine; 16 - 20</dc:source>
+			<dc:source>2541-5441</dc:source>
+			<dc:source>2303-131X</dc:source>
+			<dc:language>en</dc:language>
+			<dc:rights xml:lang="en-US">Copyright (c) 2013 Acta Interna The Journal of Internal Medicine</dc:rights>
+			<dc:rights xml:lang="en-US">http://creativecommons.org/licenses/by-sa/4.0</dc:rights>
+		</oai_dc:dc>
+	</metadata>
+</record>
+<record>
+	<header>
+		<identifier>oai:jurnal.ugm.ac.id:article/3848</identifier>
+		<datestamp>2014-06-30T07:28:08Z</datestamp>
+		<setSpec>jain:ART</setSpec>
+	</header>
+	<metadata>
+		<oai_dc:dc
+			xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+			xmlns:dc="http://purl.org/dc/elements/1.1/"
+			xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title xml:lang="id-ID">THE DIFFERENCE OF SERUM CARBOXY-TERMINAL PROPEPTIDE OF PROCOLLAGEN TYPE I (PIP) IN STAGE A, B AND C HEART FAILURE PATIENTS CAUSED BY HYPERTENSION</dc:title>
+			<dc:creator>Aini, Nurul</dc:creator>
+			<dc:description xml:lang="id-ID">ABSTRACTIntroduction. Arterial hypertension affects the heart tissue composition which leads to structural remodeling of the myocardium. The imbalance between synthesis and degradation of type I collagen leading to myocardial fibrosis in a form of type I collagen fiber accumulation in the interstitial and perivascular myocardium. Collagen fiber accumulation reduces relaxation stage, diastolic suction, myocardial stiffness and diastolic dysfunction which affect systolic dysfunction leading to heart failure. Concentration of carboxy-terminal pro peptide of pro collagen type I (PIP) in peripheral blood am a synthesis index of type I collagen in HHD. Thus, the measurement of PIP is useful to monitor myocardial fibrosis stage in heart failure and to determine the therapeutic strategy that aims not only to reduce arterial pressure and left ventricular mass but also to prevent myocardial remodeling.Aim of the study. The aim of the study was to ascertain the difference PIP level in patients with the heart failure stage A, B, and C which are caused by hypertension. The serum concentration of PIP was measured by enzyme immunoassay. This research was a cross sectional research designed for cardiology policlinic’s outpatients at Dr. Sardjito General Hospital Yogyakarta from August 2009 until the calculated sample number is fulfilled. Method. One-way ANOVA was used to analyze the differences between the three groups of heart failure stages after being tested for the normality using Kolmogorov-Smirnov normality test. If the result did not show a normal value, a non-parametric test would be undergone using Kruskal-Wallis test followed by Mann-Whitney U test. The differences considered as significant if p &lt; 0.05 with a confidence interval of 95%.Result. The research was performed in 64 patients heart failure caused by hypertension consisted of 22 stages A, 19 stage B and 23 stage C. PIP mean levels of the group stage B 819.78 ± 91,03 ng/ml was higher compared stage A 808.47± 80.8 ng/ml and PIP mean level stage C 852 ± 55.51 ng/ml was higher compared stage B. The PIP mean levels did not differ statistically significantly (p=0. 317).Conclusion. There were no significant differences in serum level of PIP on the stage heart failure A, B and C. Keywords: Collagen, fibrosis, hypertension, heart failure, carboxy-terminal pro peptide</dc:description>
+			<dc:publisher xml:lang="en-US">Faculty of Medicine Universitas Gadjah Mada</dc:publisher>
+			<dc:contributor xml:lang="id-ID"></dc:contributor>
+			<dc:date>2013-06-01</dc:date>
+			<dc:type>info:eu-repo/semantics/article</dc:type>
+			<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+			<dc:type xml:lang="en-US">Peer-reviewed Article</dc:type>
+			<dc:format>application/pdf</dc:format>
+			<dc:identifier>https://jurnal.ugm.ac.id/jain/article/view/3848</dc:identifier>
+			<dc:identifier>10.22146/acta interna.3848</dc:identifier>
+			<dc:source xml:lang="en-US">Acta Interna: The Journal of Internal Medicine; Vol 3, No 1 (2013): Acta Interna The Journal of Internal Medicine; 21 - 27</dc:source>
+			<dc:source xml:lang="id-ID">Acta Interna The Journal of Internal Medicine; Vol 3, No 1 (2013): Acta Interna The Journal of Internal Medicine; 21 - 27</dc:source>
+			<dc:source>2541-5441</dc:source>
+			<dc:source>2303-131X</dc:source>
+			<dc:language>eng</dc:language>
+			<dc:relation>https://jurnal.ugm.ac.id/jain/article/view/3848/5240</dc:relation>
+			<dc:rights xml:lang="en-US">Copyright (c) 2013 Acta Interna The Journal of Internal Medicine</dc:rights>
+			<dc:rights xml:lang="en-US">http://creativecommons.org/licenses/by-sa/4.0</dc:rights>
+		</oai_dc:dc>
+	</metadata>
+</record>
+</ListRecords>
 </OAI-PMH>
