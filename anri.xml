@@ -13,7 +13,7 @@
 <dc:title>Banjoemas</dc:title>
 <dc:creator>Algemene Secretarie</dc:creator>
 <dc:subject>Pemerintahan</dc:subject>
-<dc:format>-</dc:format>
+<dc:format>application/pdf</dc:format>
 <dc:identifier>http://anri.sikn.go.id/banjoemas</dc:identifier>
 <dc:identifier>K13</dc:identifier>
 <dc:source>Arsip Nasional Republik Indonesia</dc:source>
@@ -47,7 +47,7 @@
 <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
 <dc:creator>Algemene Secretarie</dc:creator>
 <dc:subject>Pemerintahan</dc:subject>
-<dc:format>-</dc:format>
+<dc:format>application/pdf</dc:format>
 <dc:identifier>http://anri.sikn.go.id/japara</dc:identifier>
 <dc:identifier>K18</dc:identifier>
 <dc:relation>http://anri.sikn.go.id/arsip-nasional-republik-indonesia-3</dc:relation>
@@ -66,7 +66,7 @@
 <dc:creator>Algemene Secretarie</dc:creator>
 <dc:subject>Pemerintahan</dc:subject>
 <dc:date>1830</dc:date>
-<dc:format>1 Band</dc:format>
+<dc:format>application/pdf</dc:format>
 <dc:identifier>http://anri.sikn.go.id/algemeen-jaarlijksch-verslag-der-residentie-japara-en-joana-over-den-jare-1830-bijlagen</dc:identifier>
 <dc:identifier>1</dc:identifier>
 <dc:relation>http://anri.sikn.go.id/arsip-nasional-republik-indonesia-3</dc:relation>
@@ -84,7 +84,7 @@
 <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
 <dc:creator>Algemene Secretarie</dc:creator>
 <dc:subject>Pemerintahan</dc:subject>
-<dc:format>-</dc:format>
+<dc:format>application/pdf</dc:format>
 <dc:identifier>http://anri.sikn.go.id/rembang</dc:identifier>
 <dc:identifier>K19</dc:identifier>
 <dc:relation>http://anri.sikn.go.id/arsip-nasional-republik-indonesia-3</dc:relation>
@@ -103,7 +103,7 @@
 <dc:creator>Algemene Secretarie</dc:creator>
 <dc:subject>Pemerintahan</dc:subject>
 <dc:date>1793</dc:date>
-<dc:format>1 band</dc:format>
+<dc:format>application/pdf</dc:format>
 <dc:identifier>http://anri.sikn.go.id/register-der-positieve-en-permanent-order-van-het-comptoir-rembang-1793-voor-batavia</dc:identifier>
 <dc:identifier>1</dc:identifier>
 <dc:relation>http://anri.sikn.go.id/arsip-nasional-republik-indonesia-3</dc:relation>
@@ -122,7 +122,7 @@
 <dc:title>Soerabaja</dc:title>
 <dc:creator>Algemene Secretarie</dc:creator>
 <dc:subject>Pemerintahan</dc:subject>
-<dc:format>-</dc:format>
+<dc:format>application/pdf</dc:format>
 <dc:identifier>http://anri.sikn.go.id/soerabaja</dc:identifier>
 <dc:identifier>K20</dc:identifier>
 <dc:source>Arsip Nasional Republik Indonesia</dc:source>
@@ -185,7 +185,7 @@
 <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
 <dc:creator>Algemene Secretarie</dc:creator>
 <dc:subject>Pemerintahan</dc:subject>
-<dc:format>-</dc:format>
+<dc:format>application/pdf</dc:format>
 <dc:identifier>http://anri.sikn.go.id/joana</dc:identifier>
 <dc:identifier>K21</dc:identifier>
 <dc:relation>http://anri.sikn.go.id/arsip-nasional-republik-indonesia-3</dc:relation>
@@ -203,7 +203,7 @@
 <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
 <dc:creator>Algemene Secretarie</dc:creator>
 <dc:subject>Pemerintahan</dc:subject>
-<dc:format>1 Band</dc:format>
+<dc:format>application/pdf</dc:>
 <dc:identifier>http://anri.sikn.go.id/afgaande-brieven-naar-raad-van-justitie-politie-te-semarang-van-gouverneur-generaal-nederlandsch-indie</dc:identifier>
 <dc:identifier>1</dc:identifier>
 <dc:relation>http://anri.sikn.go.id/arsip-nasional-republik-indonesia-3</dc:relation>
