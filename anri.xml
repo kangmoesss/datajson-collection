@@ -4,7 +4,7 @@
 	<ListRecords>
 		<record>
 			<header>
-				<identifier>oai:anri.sikn.go.id:anrisikn_9532</identifier>
+				<identifier>oai:anri.sikn.go.id:anrisikn/9532</identifier>
 				<datestamp>2017-12-06T23:58:39Z</datestamp>
 				<setSpec>oai:anri.sikn.go.id:anrisikn_5781</setSpec>
 			</header>
@@ -27,7 +27,7 @@
 		</record>
 		<record>
 			<header>
-				<identifier>oai:anri.sikn.go.id:anrisikn_6475</identifier>
+				<identifier>oai:anri.sikn.go.id:anrisikn/6475</identifier>
 				<datestamp>2017-12-13T04:51:45Z</datestamp>
 				<setSpec>oai:anri.sikn.go.id:anrisikn_5781</setSpec>
 			</header>
