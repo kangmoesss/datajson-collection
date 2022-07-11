@@ -1,0 +1,154 @@
+{
+    "@context": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.jsonld",
+    "@id": "http:\/\/opendata.jatimprov.go.id\/data.json",
+    "@type": "dcat:Catalog",
+    "conformsTo": "https:\/\/project-open-data.cio.gov\/v1.1\/schema",
+    "describedBy": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.json",
+    "dataset": [
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Rustam",
+                "hasEmail": "mailto:noemailprovided@usa.gov"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "http:\/\/opendata.jatimprov.go.id\/frontend\/dataset\/827\/csv\/download_excel",
+                    "mediaType": "text\/csv",
+                    "format": "csv",
+                    "title": "Jumlah Siswa SMA, SMK, PK-PLK menurut Kabupaten\/Kota"
+                }
+            ],
+            "identifier": "fa3a3c407f82377f55c19c5d403335c7",
+            "issued": "-",
+            "landingPage": "http:\/\/opendata.jatimprov.go.id\/frontend\/dataset\/827\/detail",
+            "modified": "2021-05-21",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "opendata.jatimprov.go.id"
+            },
+            "title": "Jumlah Siswa SMA, SMK, PK-PLK menurut Kabupaten\/Kota",
+            "description": "",
+            "keyword": []
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Rustam",
+                "hasEmail": "mailto:noemailprovided@usa.gov"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "http:\/\/opendata.jatimprov.go.id\/frontend\/dataset\/1907\/csv\/download_excel",
+                    "mediaType": "text\/csv",
+                    "format": "csv",
+                    "title": "Upah Minimum Kabupaten \/ Kota di Jawa Timur"
+                }
+            ],
+            "identifier": "77369e37b2aa1404f416275183ab055f",
+            "issued": "-",
+            "landingPage": "http:\/\/opendata.jatimprov.go.id\/frontend\/dataset\/1907\/detail",
+            "modified": "2021-06-28",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "opendata.jatimprov.go.id"
+            },
+            "title": "Upah Minimum Kabupaten \/ Kota di Jawa Timur",
+            "description": "ini ditambahkan dengan isian deskripsi",
+            "keyword": []
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Rustam",
+                "hasEmail": "mailto:noemailprovided@usa.gov"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "http:\/\/opendata.jatimprov.go.id\/frontend\/dataset\/572\/csv\/download_excel",
+                    "mediaType": "text\/csv",
+                    "format": "csv",
+                    "title": "Jumlah Lama dirawat (Rawat Inap) Berdasarkan Kelas"
+                }
+            ],
+            "identifier": "e6b4b2a746ed40e1af829d1fa82daa10",
+            "issued": "-",
+            "landingPage": "http:\/\/opendata.jatimprov.go.id\/frontend\/dataset\/572\/detail",
+            "modified": "2021-05-10",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "opendata.jatimprov.go.id"
+            },
+            "title": "Jumlah Lama dirawat (Rawat Inap) Berdasarkan Kelas",
+            "description": "Dataset ini berisi data Jumlah Lama dirawat (Rawat Inap) berdasar kelas di Rumah Sakit Umum Daerah Dr. Saiful Anwar Malang Provinsi Jawa Timur periode Bulan tahun 2021.\r\n\r\nDataset terkait topik Kesehatan ini dihasilkan oleh Internal Rumah Sakit Umum Daerah Dr. Saiful Anwar Malang yang dikeluarkan dalam periode bulan sekali.\r\n\r\nPenjelasan mengenai variabel di dalam dataset ini:\r\n* \u0026nbsp;\u0026nbsp;vvip : menyatakan jumlah hari yang dibutuhkan pasien VVIP untuk rawat inap dalam satu satuan periode update.\r\n* \u0026nbsp;\u0026nbsp;vip : menyatakan jumlah hari yang dibutuhkan pasien VIP untuk rawat inap dalam satu satuan periode update.\r\n* \u0026nbsp;\u0026nbsp;i : menyatakan jumlah hari yang dibutuhkan pasien Kelas I untuk rawat inap dalam satu satuan periode update.\r\n* \u0026nbsp;\u0026nbsp;ii : menyatakan jumlah hari yang dibutuhkan pasien Kelas II untuk rawat inap dalam satu satuan periode update.\r\n* \u0026nbsp;\u0026nbsp;iii : menyatakan jumlah hari yang dibutuhkan pasien Kelas III untuk rawat inap dalam satu satuan periode update.\r\n* \u0026nbsp;\u0026nbsp;kelas_khusus : menyatakan jumlah hari yang dibutuhkan pasien Kelas Khusus untuk rawat inap dalam satu satuan periode update.\r\n* \u0026nbsp;\u0026nbsp;periode_update: menyatakan periode update bulan dengan tahun produksi data dengan tipe data.",
+            "keyword": []
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Rustam",
+                "hasEmail": "mailto:noemailprovided@usa.gov"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "http:\/\/opendata.jatimprov.go.id\/frontend\/dataset\/834\/csv\/download_excel",
+                    "mediaType": "text\/csv",
+                    "format": "csv",
+                    "title": "Jumlah Siswa SMA, SMK, PK-PLK berdasarkan Jenis Kelamin "
+                }
+            ],
+            "identifier": "301ad0e3bd5cb1627a2044908a42fdc2",
+            "issued": "-",
+            "landingPage": "http:\/\/opendata.jatimprov.go.id\/frontend\/dataset\/834\/detail",
+            "modified": "2021-05-21",
+            "accrualPeriodicity": "Bulanan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "opendata.jatimprov.go.id"
+            },
+            "title": "Jumlah Siswa SMA, SMK, PK-PLK berdasarkan Jenis Kelamin ",
+            "description": "Dataset ini berisi data Jumlah Siswa SMA, SMK, PK-PLK berdasarkan Jenis Kelamin di Provinsi Jawa Timur periode semester tahun 2021.\r\n\r\nDataset terkait topik Pendidikan ini dihasilkan oleh Dapodik Dinas Pendidikan yang dikeluarkan dalam periode semester sekali (2 kali dalam waktu satu tahun).\r\n\r\nPenjelasan mengenai variabel di dalam dataset ini:\r\n* \u0026nbsp; klasifikasi_sekolah : menyatakan jenis klasifikasi sekolah untuk siswa SMA, SMK, PK-PLK.\r\n* \u0026nbsp; laki_laki: menyatakan jumlah siswa laki-laki Siswa SMA, SMK, PK-PLK dengan tipe data numerik.\r\n* \u0026nbsp; perempuan: menyatakan jumlah siswa perempuan Siswa SMA, SMK, PK-PLK dengan tipe data numerik.\r\n* \u0026nbsp; periode_update: menyatakan periode update dengan tahun produksi data dengan tipe data.",
+            "keyword": []
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Rustam",
+                "hasEmail": "mailto:noemailprovided@usa.gov"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "http:\/\/opendata.jatimprov.go.id\/frontend\/dataset\/1285\/csv\/download_excel",
+                    "mediaType": "text\/csv",
+                    "format": "csv",
+                    "title": "Luas Tambah Serangan OPT (Organisme Pengganggu Tumbuhan) Cabai Menurut Kabupaten\/Kota di Jawa Timur"
+                }
+            ],
+            "identifier": "944bdd9636749a0801c39b6e449dbedc",
+            "issued": "-",
+            "landingPage": "http:\/\/opendata.jatimprov.go.id\/frontend\/dataset\/1285\/detail",
+            "modified": "2021-06-16",
+            "accrualPeriodicity": "Bulanan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "opendata.jatimprov.go.id"
+            },
+            "title": "Luas Tambah Serangan OPT (Organisme Pengganggu Tumbuhan) Cabai Menurut Kabupaten\/Kota di Jawa Timur",
+            "description": "Dataset ini berisi data Luas Tambah Serangan OPT (Organisme Pengganggu Tumbuhan) Cabai Menurut Kabupaten\/Kota di Jawa Timur di Dinas Pertanian dan Ketahanan Pangan Provinsi Jawa Timur periode Bulan tahun 2021.\r\n\r\nDataset terkait topik Lingkungan Hidup ini dihasilkan oleh Dinas Pertanian dan Ketahanan Pangan Provinsi Jawa Timur yang dikeluarkan dalam periode bulan sekali.\r\n\r\nPenjelasan mengenai variabel di dalam dataset ini:\r\n* \u0026nbsp; kabupaten_kota : menyatakan kabupaten kota yang terdampak serangan OPT di provinsi Jawa Timur.\r\n* \u0026nbsp;\u0026nbsp;lalat_buah : menyatakan jumlah luasan tanaman cabai\u0026nbsp;terdampak dalam Ha untuk jenis OTP Lalat Buah.\r\n* \u0026nbsp;\u0026nbsp;thrips : menyatakan jumlah luasan tanaman cabai terdampak\u0026nbsp;dalam Ha untuk jenis OTP Thrips.\r\n* \u0026nbsp;\u0026nbsp;antraknose : menyatakan jumlah luasan\u0026nbsp;tanaman cabai terdampak dalam Ha untuk jenis OTP Antraknose.\r\n* \u0026nbsp;\u0026nbsp;bercak_daun : menyatakan jumlah luasan tanaman cabai terdampak dalam Ha untuk jenis OTP Bercak Daun.\r\n* \u0026nbsp;\u0026nbsp;periode_update: menyatakan periode update bulan dengan tahun produksi data dengan tipe data.",
+            "keyword": []
+        }
+    ]
+}
