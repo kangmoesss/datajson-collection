@@ -12,13 +12,15 @@
             "fn": "Bagian Sistem Informasi dan Data",
             "hasEmail": "setjen@mpr.go.id"
         },
-        "distribution": {
+        "distribution": [
+            {
             "@type": "dcat:Distribution",
             "downloadURL": "https://www.mpr.go.id/api/daftar-anggota-mpr-ri.csv",
             "mediaType": "text/csv",
             "format": "csv",
             "title": "daftar-anggota-mpr-ri"
-        },
+            }
+        ],
         "identifier": "5c5ca63e-e593-5821-f436-818bdb09f3b0",
         "issued": "0000-00-00",
         "modified": "2021-04-01",
