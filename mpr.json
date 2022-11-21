@@ -1,0 +1,39 @@
+{
+    "@context": "https://mpr.go.id",
+    "@id": "https://mpr.go.id",
+    "@type": "dcat:data",
+    "conformsTo": "https://mpr.go.id",
+    "describedBy": "https://mpr.go.id",
+    "dataset": [
+    {
+        "@type": "dcat:Dataset",
+        "accessLevel": "public",
+        "contactPoint": {
+            "fn": "Bagian Sistem Informasi dan Data",
+            "hasEmail": "setjen@mpr.go.id"
+        },
+        "distribution": {
+            "@type": "dcat:Distribution",
+            "downloadURL": "https://www.mpr.go.id/api/daftar-anggota-mpr-ri.csv",
+            "mediaType": "text/csv",
+            "format": "csv",
+            "title": "daftar-anggota-mpr-ri"
+        },
+        "identifier": "5c5ca63e-e593-5821-f436-818bdb09f3b0",
+        "issued": "0000-00-00",
+        "modified": "2021-04-01",
+        "accrualPeriodicity": "Periode",
+        "publisher": {
+            "@type": "go.id:Government Indonesia",
+            "name": "Bagian Sistem Informasi dan Data Setjen MPR RI"
+        },
+        "title": "Daftar Anggota MPR RI",
+        "description": "Data ini berisi daftar anggota MPR RI periode 2019-2024 ",
+        "keyword": [
+            "anggotampr",
+            "mprri",
+            "mprrumahkebangsaan"
+        ]
+    }
+]
+}
